@@ -1,0 +1,36 @@
+{
+  "name": "water_dcvcrt_640x360_q34.rhea",
+  "source": "water",
+  "frames": 599,
+  "fps": 60,
+  "encoding": {
+    "name": "water_dcvcrt_640x360_q34",
+    "codec": "DCVC-RT",
+    "encoder": "DCVC-RT",
+    "quality": 34,
+    "bitrate": 497817.69616026717,
+    "filesize": 621235,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 28.62890863418579,
+    "spf": 0.047795,
+    "start_time": "2025-05-21 14:56:02",
+    "input": "water_netflix.yuv",
+    "output": "water_dcvcrt_640x360_q34.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/dcvcrt --model_path_i /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_image.pth.tar --model_path_p /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_video.pth.tar --qp_i 34 --qp_p 34 --rate_num 1 --test_config /tmp/1747832162036138709_water_netflix.yuv.json --cuda 1 --worker 1 --write_stream 1 --stream_path /scratch/behe5421/dst/encoded_videos/dcvcrt/360p --output_path /tmp/test.json --save_decoded_frame 1 --calc_ssim 0 --verbose 1 --verbose_json 1 --check_existing 0 --cuda_idx 1"
+  },
+  "upscaling": {
+    "method": "rhea",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 0,
+    "spf": 0.0,
+    "start_time": "2025-08-12 02:09:34",
+    "input": "",
+    "output": "water_dcvcrt_640x360_q34.rhea.mkv",
+    "command": "Topaz Video AI 7.0.1; Enhanced using rhea-1; mode: auto; revert compression at 0; recover details at 0; sharpen at 0; reduce noise at 0; dehalo at 0; anti-alias/deblur at 0; focus fix Off; and recover original detail at 20. Changed resolution to 3840x2160"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 02:04:00",
+  "distorted": "vegetables_original_1280x720_q0.dove.mkv",
+  "high quality vs low quality": 0.8357269154680524,
+  "good content vs bad content": 0.8156925443269369,
+  "organized composition vs chaotic composition": 0.64820699041645,
+  "vibrant color vs faded color": 0.8158192458157728,
+  "contrastive lighting vs gloomy lighting": 0.7635571574486664,
+  "consistent trajectory vs incoherent trajectory": 0.8844981475495409,
+  "good aesthetics vs bad aesthetics": 0.8261893262905045,
+  "sharp vs fuzzy": 0.8652585340474723,
+  "in-focus vs out-of-focus": 0.815993074801025,
+  "noiseless vs noisy": 0.8766533774333186,
+  "clear-motion vs blurry-motion": 0.58207319957707,
+  "stable vs shaky": 0.9595677257850281,
+  "well-exposed vs poorly-exposed": 0.8738837784141358,
+  "original vs compressed": 0.843483430805875,
+  "fluent vs choppy": 0.8239153878329084,
+  "clear vs severely degraded": 0.8439278270666436,
+  "overall_score": 0.8171529164424627
+}

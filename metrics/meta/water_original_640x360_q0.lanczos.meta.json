@@ -1,0 +1,36 @@
+{
+  "name": "water_original_640x360_q0.lanczos",
+  "source": "water",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "water_original_640x360_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 73916404,
+    "filesize": 92247673,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:41",
+    "input": "",
+    "output": "water_original_640x360_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "lanczos",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 0,
+    "spf": 0,
+    "start_time": "2025-08-04 12:41:49",
+    "input": "",
+    "output": "",
+    "command": "-vf scale=3840x2160:param0=5 -sws_flags lanczos+accurate_rnd+bitexact"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "daydreamer_dcvcrt_640x360_q34.rhea",
+  "distorted": "daydreamer_dcvcrt_640x360_q34.rhea.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.084421157836914,
+  "ts": "2025-09-02 00:59:52.061471"
+}

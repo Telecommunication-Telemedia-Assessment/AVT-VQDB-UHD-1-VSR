@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 01:07:26",
+  "distorted": "daydreamer_original_640x360_q0.starlightmini.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 3.428460190128014
+}

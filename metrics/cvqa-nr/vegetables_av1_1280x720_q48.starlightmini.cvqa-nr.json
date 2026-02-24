@@ -1,0 +1,8 @@
+{
+  "name": "vegetables_av1_1280x720_q48.starlightmini",
+  "distorted": "vegetables_av1_1280x720_q48.starlightmini.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.625299453735352,
+  "ts": "2025-09-01 23:46:19.589755"
+}

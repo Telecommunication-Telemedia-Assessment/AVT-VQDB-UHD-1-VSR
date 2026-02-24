@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 01:59:42",
+  "distorted": "water_av1_1280x720_q48.dove.mkv",
+  "reference": "water_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 2.261233354472164
+}

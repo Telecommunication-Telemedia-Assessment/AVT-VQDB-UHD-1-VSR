@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:48:34",
+  "distorted": "vegetables_original_640x360_q0.scst.mkv",
+  "high quality vs low quality": 0.7118538552558343,
+  "good content vs bad content": 0.6529054016945587,
+  "organized composition vs chaotic composition": 0.4269433477272871,
+  "vibrant color vs faded color": 0.7293309297590803,
+  "contrastive lighting vs gloomy lighting": 0.7015981113143979,
+  "consistent trajectory vs incoherent trajectory": 0.8248083629021877,
+  "good aesthetics vs bad aesthetics": 0.6849691779892096,
+  "sharp vs fuzzy": 0.7775283419805741,
+  "in-focus vs out-of-focus": 0.7377867259505757,
+  "noiseless vs noisy": 0.7778975457992625,
+  "clear-motion vs blurry-motion": 0.3769676450641727,
+  "stable vs shaky": 0.9539271864450075,
+  "well-exposed vs poorly-exposed": 0.8134987809579854,
+  "original vs compressed": 0.75477286008397,
+  "fluent vs choppy": 0.7946700390624009,
+  "clear vs severely degraded": 0.687451125027943,
+  "overall_score": 0.7129318398134029
+}

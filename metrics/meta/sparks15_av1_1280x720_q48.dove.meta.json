@@ -1,0 +1,36 @@
+{
+  "name": "sparks15_av1_1280x720_q48.dove",
+  "source": "sparks15",
+  "frames": 279,
+  "fps": 60,
+  "encoding": {
+    "name": "sparks15_av1_1280x720_q48",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 48,
+    "bitrate": 3323671.397849462,
+    "filesize": 1931884,
+    "width": 1280,
+    "height": 720,
+    "resolution": "720p",
+    "encoding_time": 1283.261224269867,
+    "spf": 4.599503,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "Sparks_cut_15.yuv",
+    "output": "sparks15_av1_1280x720_q48.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=1280 --height=720 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=48 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/720p/sparks15_av1_1280x720_q48.bin /scratch/behe5421/src/yuv/720p/Sparks_cut_15.yuv"
+  },
+  "upscaling": {
+    "method": "dove",
+    "upscale_factor": 3,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 12734.86640548706,
+    "spf": 45.644682457,
+    "start_time": "2025-07-27 11:05:33",
+    "input": "sparks15_av1_1280x720_q48.decoded.mkv",
+    "output": "sparks15_av1_1280x720_q48.decoded.DOVE_3x_T128_64_S3_256_B64",
+    "command": "python dove_inference.py --input_path /scratch/behe5421/src/upscale/mkv/720/sparks15_av1_1280x720_q48.decoded.mkv --model_path /home/behe5421/nvc/avt-ml-codec-evaluation/build/DOVE/pretrained_models/DOVE --output_path /scratch/behe5421/dst/upscaled/DOVE --fps 60 --dtype bfloat16 --seed 42 --upscale_mode bilinear --upscale 3 --noise_step 0 --sr_noise_step 399 --is_cpu_offload False --is_vae_st True --tile_size_hw [0, 0] --tile_split_hw [3, 3] --overlap_hw [256, 256] --tile_blend 64 --chunk_len 128 --overlap_t 64"
+  }
+}

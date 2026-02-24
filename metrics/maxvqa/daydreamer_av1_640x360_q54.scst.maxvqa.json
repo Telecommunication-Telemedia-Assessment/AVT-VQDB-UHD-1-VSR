@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:59:40",
+  "distorted": "daydreamer_av1_640x360_q54.scst.mkv",
+  "high quality vs low quality": 0.6362933773480183,
+  "good content vs bad content": 0.585448634177784,
+  "organized composition vs chaotic composition": 0.3119943039043376,
+  "vibrant color vs faded color": 0.6503169505821862,
+  "contrastive lighting vs gloomy lighting": 0.6210607456781662,
+  "consistent trajectory vs incoherent trajectory": 0.7637903941846516,
+  "good aesthetics vs bad aesthetics": 0.6135036993902633,
+  "sharp vs fuzzy": 0.7730002554044164,
+  "in-focus vs out-of-focus": 0.7328569250091249,
+  "noiseless vs noisy": 0.7690010971091812,
+  "clear-motion vs blurry-motion": 0.346049056114429,
+  "stable vs shaky": 0.9307180530144528,
+  "well-exposed vs poorly-exposed": 0.7531410111442453,
+  "original vs compressed": 0.7335741287702797,
+  "fluent vs choppy": 0.7437096449200143,
+  "clear vs severely degraded": 0.6302077682283642,
+  "overall_score": 0.6621666278112448
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:55:12",
+  "distorted": "vegetables_av1_1280x720_q48.scst.mkv",
+  "high quality vs low quality": 0.7377913781892187,
+  "good content vs bad content": 0.6946603045913097,
+  "organized composition vs chaotic composition": 0.45183362356475715,
+  "vibrant color vs faded color": 0.7618412506421678,
+  "contrastive lighting vs gloomy lighting": 0.7117892039709315,
+  "consistent trajectory vs incoherent trajectory": 0.8310998257085094,
+  "good aesthetics vs bad aesthetics": 0.7214528680270904,
+  "sharp vs fuzzy": 0.804721650101053,
+  "in-focus vs out-of-focus": 0.755143657829002,
+  "noiseless vs noisy": 0.800288426220286,
+  "clear-motion vs blurry-motion": 0.40521476488372743,
+  "stable vs shaky": 0.9511043509062448,
+  "well-exposed vs poorly-exposed": 0.7992390201707555,
+  "original vs compressed": 0.7669683077526055,
+  "fluent vs choppy": 0.7955550272422172,
+  "clear vs severely degraded": 0.722319669458846,
+  "overall_score": 0.7319389580786703
+}

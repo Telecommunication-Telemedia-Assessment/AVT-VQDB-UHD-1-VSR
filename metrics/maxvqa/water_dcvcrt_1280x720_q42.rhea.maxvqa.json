@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 05:24:45",
+  "distorted": "water_dcvcrt_1280x720_q42.rhea.mkv",
+  "high quality vs low quality": 0.7529350656240298,
+  "good content vs bad content": 0.7627510880018296,
+  "organized composition vs chaotic composition": 0.492544897093373,
+  "vibrant color vs faded color": 0.7637447168753794,
+  "contrastive lighting vs gloomy lighting": 0.729016095153792,
+  "consistent trajectory vs incoherent trajectory": 0.8276398544505399,
+  "good aesthetics vs bad aesthetics": 0.7565325692539269,
+  "sharp vs fuzzy": 0.8493171809547998,
+  "in-focus vs out-of-focus": 0.7833614363109724,
+  "noiseless vs noisy": 0.8509361320581792,
+  "clear-motion vs blurry-motion": 0.4493241469416383,
+  "stable vs shaky": 0.9451133355282739,
+  "well-exposed vs poorly-exposed": 0.834360235727414,
+  "original vs compressed": 0.8254512431703234,
+  "fluent vs choppy": 0.7897974712073366,
+  "clear vs severely degraded": 0.7542340219921166,
+  "overall_score": 0.7604412181464955
+}

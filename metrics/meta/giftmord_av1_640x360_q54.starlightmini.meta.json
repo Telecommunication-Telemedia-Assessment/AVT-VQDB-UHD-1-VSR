@@ -1,0 +1,36 @@
+{
+  "name": "giftmord_av1_640x360_q54.starlightmini",
+  "source": "giftmord",
+  "frames": 480,
+  "fps": 60,
+  "encoding": {
+    "name": "giftmord_av1_640x360_q54",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 54,
+    "bitrate": 163720.0,
+    "filesize": 163720,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 87.61197352409363,
+    "spf": 0.182525,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "Giftmord-SDR_8s_11_3840x2160.yuv",
+    "output": "giftmord_av1_640x360_q54.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=640 --height=360 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=54 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/360p/giftmord_av1_640x360_q54.bin /scratch/behe5421/src/yuv/360p/Giftmord-SDR_8s_11_3840x2160.yuv"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 5896.0,
+    "spf": 12.283333333,
+    "start_time": "2025-08-15 06:41:24",
+    "input": "giftmord_av1_640x360_q54.decoded.prescaled_540p_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

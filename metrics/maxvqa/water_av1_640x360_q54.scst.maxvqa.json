@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:05:21",
+  "distorted": "water_av1_640x360_q54.scst.mkv",
+  "high quality vs low quality": 0.6955835935835304,
+  "good content vs bad content": 0.681942329839222,
+  "organized composition vs chaotic composition": 0.41186756496066557,
+  "vibrant color vs faded color": 0.6890498179774026,
+  "contrastive lighting vs gloomy lighting": 0.6753181997500692,
+  "consistent trajectory vs incoherent trajectory": 0.8068463249922164,
+  "good aesthetics vs bad aesthetics": 0.6851906280830452,
+  "sharp vs fuzzy": 0.7510008771014086,
+  "in-focus vs out-of-focus": 0.7322321831182802,
+  "noiseless vs noisy": 0.7484755580958894,
+  "clear-motion vs blurry-motion": 0.36073067076594517,
+  "stable vs shaky": 0.9445341702941176,
+  "well-exposed vs poorly-exposed": 0.7965802072572571,
+  "original vs compressed": 0.726305711451937,
+  "fluent vs choppy": 0.7727887689265197,
+  "clear vs severely degraded": 0.6701767152899075,
+  "overall_score": 0.6967889575929633
+}

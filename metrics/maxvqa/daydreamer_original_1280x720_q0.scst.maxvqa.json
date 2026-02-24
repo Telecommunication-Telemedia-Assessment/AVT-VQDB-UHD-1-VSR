@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 01:41:16",
+  "distorted": "daydreamer_original_1280x720_q0.scst.mkv",
+  "high quality vs low quality": 0.6912831748824884,
+  "good content vs bad content": 0.652856807145268,
+  "organized composition vs chaotic composition": 0.43077221928883386,
+  "vibrant color vs faded color": 0.7001490238603817,
+  "contrastive lighting vs gloomy lighting": 0.6709521201710504,
+  "consistent trajectory vs incoherent trajectory": 0.784787851831434,
+  "good aesthetics vs bad aesthetics": 0.6670733302623107,
+  "sharp vs fuzzy": 0.7916596554734909,
+  "in-focus vs out-of-focus": 0.7515272313425047,
+  "noiseless vs noisy": 0.79381798745512,
+  "clear-motion vs blurry-motion": 0.39425420557217467,
+  "stable vs shaky": 0.9394926616604278,
+  "well-exposed vs poorly-exposed": 0.8052396026109231,
+  "original vs compressed": 0.7445661709288947,
+  "fluent vs choppy": 0.7590942568569099,
+  "clear vs severely degraded": 0.6698035541032216,
+  "overall_score": 0.7029581158403396
+}

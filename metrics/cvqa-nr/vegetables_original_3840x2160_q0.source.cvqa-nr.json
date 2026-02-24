@@ -1,0 +1,8 @@
+{
+  "name": "vegetables_original_3840x2160_q0.source",
+  "distorted": "vegetables_original_3840x2160_q0.source.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.6429572105407715,
+  "ts": "2025-09-01 23:41:58.253501"
+}

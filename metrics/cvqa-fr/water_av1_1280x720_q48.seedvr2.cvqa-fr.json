@@ -1,0 +1,9 @@
+{
+  "name": "water_av1_1280x720_q48.seedvr2",
+  "distorted": "water_av1_1280x720_q48.seedvr2.mkv",
+  "reference": "water_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.6350619792938232,
+  "ts": "2025-09-02 01:25:40.311594"
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:16:09",
+  "distorted": "vegetables_original_3840x2160_q0.source.mkv",
+  "high quality vs low quality": 0.7987724823411712,
+  "good content vs bad content": 0.7538707109659067,
+  "organized composition vs chaotic composition": 0.5620831992223121,
+  "vibrant color vs faded color": 0.8109172236933113,
+  "contrastive lighting vs gloomy lighting": 0.7579224832485655,
+  "consistent trajectory vs incoherent trajectory": 0.8656117871085315,
+  "good aesthetics vs bad aesthetics": 0.774678743695564,
+  "sharp vs fuzzy": 0.8371494518112071,
+  "in-focus vs out-of-focus": 0.7576264217892813,
+  "noiseless vs noisy": 0.841602198306455,
+  "clear-motion vs blurry-motion": 0.4607807869163798,
+  "stable vs shaky": 0.9565206794418366,
+  "well-exposed vs poorly-exposed": 0.8609011880174432,
+  "original vs compressed": 0.8009600019309949,
+  "fluent vs choppy": 0.809118162028098,
+  "clear vs severely degraded": 0.7920486632111055,
+  "overall_score": 0.7775352614830102
+}

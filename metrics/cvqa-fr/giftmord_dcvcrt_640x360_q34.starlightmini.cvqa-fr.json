@@ -1,0 +1,9 @@
+{
+  "name": "giftmord_dcvcrt_640x360_q34.starlightmini",
+  "distorted": "giftmord_dcvcrt_640x360_q34.starlightmini.mkv",
+  "reference": "giftmord_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.547381639480591,
+  "ts": "2025-09-02 01:30:56.809180"
+}

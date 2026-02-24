@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:29:30",
+  "distorted": "daydreamer_dcvcrt_640x360_q34.starlightmini.mkv",
+  "high quality vs low quality": 0.610393393262477,
+  "good content vs bad content": 0.5273059549512292,
+  "organized composition vs chaotic composition": 0.2883725514597485,
+  "vibrant color vs faded color": 0.5856740124595364,
+  "contrastive lighting vs gloomy lighting": 0.5829767170803297,
+  "consistent trajectory vs incoherent trajectory": 0.7287912486000201,
+  "good aesthetics vs bad aesthetics": 0.5718822426931914,
+  "sharp vs fuzzy": 0.7896734848590896,
+  "in-focus vs out-of-focus": 0.7202298751318265,
+  "noiseless vs noisy": 0.7931215738459335,
+  "clear-motion vs blurry-motion": 0.35766080395534033,
+  "stable vs shaky": 0.9312370969707672,
+  "well-exposed vs poorly-exposed": 0.7429157884863321,
+  "original vs compressed": 0.7645386286964647,
+  "fluent vs choppy": 0.6672967810204669,
+  "clear vs severely degraded": 0.6026940416194874,
+  "overall_score": 0.641547762193265
+}

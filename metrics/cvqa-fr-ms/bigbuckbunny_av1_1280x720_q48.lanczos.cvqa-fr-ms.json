@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 12:28:41",
+  "distorted": "bigbuckbunny_av1_1280x720_q48.lanczos.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 4.310312354781436
+}

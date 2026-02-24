@@ -1,0 +1,9 @@
+{
+  "name": "daydreamer_av1_1280x720_q48.starlightmini",
+  "distorted": "daydreamer_av1_1280x720_q48.starlightmini.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.9636945724487305,
+  "ts": "2025-09-02 01:06:08.811054"
+}

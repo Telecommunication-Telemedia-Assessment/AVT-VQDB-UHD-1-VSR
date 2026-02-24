@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 06:49:11",
+  "distorted": "water_dcvcrt_640x360_q34.lanczos.mkv",
+  "high quality vs low quality": 0.4987103925228782,
+  "good content vs bad content": 0.42144550776839523,
+  "organized composition vs chaotic composition": 0.2559915965546699,
+  "vibrant color vs faded color": 0.5240926860272775,
+  "contrastive lighting vs gloomy lighting": 0.5540407272653661,
+  "consistent trajectory vs incoherent trajectory": 0.6688878714852483,
+  "good aesthetics vs bad aesthetics": 0.4793812286948724,
+  "sharp vs fuzzy": 0.6432053623542322,
+  "in-focus vs out-of-focus": 0.5203716899797037,
+  "noiseless vs noisy": 0.6731399173065024,
+  "clear-motion vs blurry-motion": 0.21406784511764107,
+  "stable vs shaky": 0.9195990043622633,
+  "well-exposed vs poorly-exposed": 0.7501196351172511,
+  "original vs compressed": 0.5918072682030262,
+  "fluent vs choppy": 0.5491031528860637,
+  "clear vs severely degraded": 0.46505666474151797,
+  "overall_score": 0.5455637843991819
+}

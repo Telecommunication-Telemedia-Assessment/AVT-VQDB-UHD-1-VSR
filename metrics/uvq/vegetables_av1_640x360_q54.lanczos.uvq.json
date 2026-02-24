@@ -1,0 +1,12 @@
+{
+  "compression": 3.1120543,
+  "content": 3.7777653,
+  "distortion": 3.4728115,
+  "compression_content": 3.5793781,
+  "compression_distortion": 3.2104645,
+  "content_distortion": 3.6768906,
+  "compression_content_distortion": 3.5127456,
+  "uvq": 3.5127456,
+  "filename": "vegetables_av1_640x360_q54.lanczos.mkv",
+  "timestamp": "2025-09-06 15:53:20"
+}

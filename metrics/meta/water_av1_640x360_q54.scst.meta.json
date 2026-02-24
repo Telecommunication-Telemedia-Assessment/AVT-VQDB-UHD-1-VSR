@@ -1,0 +1,36 @@
+{
+  "name": "water_av1_640x360_q54.scst",
+  "source": "water",
+  "frames": 599,
+  "fps": 60,
+  "encoding": {
+    "name": "water_av1_640x360_q54",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 54,
+    "bitrate": 587084.8747913189,
+    "filesize": 732633,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 381.0789752006531,
+    "spf": 0.636192,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "water_netflix.yuv",
+    "output": "water_av1_640x360_q54.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=640 --height=360 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=54 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/360p/water_av1_640x360_q54.bin /scratch/behe5421/src/yuv/360p/water_netflix.yuv"
+  },
+  "upscaling": {
+    "method": "scst",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 76615.58,
+    "spf": 127.905809683,
+    "start_time": "2025-07-21 23:39:48",
+    "input": "",
+    "output": "",
+    "command": "python inference_SCST.py --ckpt_model_path checkpoints/stcm_unet.pth --decoder_tiled_size 224 --encoder_tiled_size 2048 --num_inference_steps 20 --latent_tiled_size 96 --video_path /scratch/behe5421/src/upscale/png/360/water_av1_640x360_q54.decoded/ --added_noise_level 350 --init_noise_level 999 --output_dir /scratch/behe5421/dst/upscaled/SCST/water_av1_640x360_q54.decoded.scst --upscale 6 --process_size 768 --overlap_frame 1 --unet_config_path models/configs/stcm.yaml --seed 42 --num_frame 8 --prompt A group of people are dancing in front of a fountain during a thunderstorm. --negative_prompt blurry, dotted, noise, raster lines, unclear, lowres, over-smoothed --guidance_scale 5.0 --frame_rate 60 --pretrained_model_path checkpoints/stable-diffusion-2-1-base --controlnet_path checkpoints/controlnet --save_video"
+  }
+}

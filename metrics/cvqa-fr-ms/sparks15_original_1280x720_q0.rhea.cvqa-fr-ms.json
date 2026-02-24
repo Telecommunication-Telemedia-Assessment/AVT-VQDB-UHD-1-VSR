@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 04:24:59",
+  "distorted": "sparks15_original_1280x720_q0.rhea.mkv",
+  "reference": "sparks15_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 4.573978000120947
+}

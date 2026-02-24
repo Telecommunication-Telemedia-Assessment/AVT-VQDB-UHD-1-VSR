@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 02:19:02",
+  "distorted": "giftmord_av1_1280x720_q48.starlightmini.mkv",
+  "high quality vs low quality": 0.8215120813203568,
+  "good content vs bad content": 0.7908877458182577,
+  "organized composition vs chaotic composition": 0.5267643349901174,
+  "vibrant color vs faded color": 0.8303912360798756,
+  "contrastive lighting vs gloomy lighting": 0.7602616867222035,
+  "consistent trajectory vs incoherent trajectory": 0.8461140928995211,
+  "good aesthetics vs bad aesthetics": 0.8086682940633009,
+  "sharp vs fuzzy": 0.8843443432658197,
+  "in-focus vs out-of-focus": 0.818363621309934,
+  "noiseless vs noisy": 0.888742230398384,
+  "clear-motion vs blurry-motion": 0.5054076119379236,
+  "stable vs shaky": 0.9438552448926398,
+  "well-exposed vs poorly-exposed": 0.8780358259846729,
+  "original vs compressed": 0.8676960293090799,
+  "fluent vs choppy": 0.8025434897780529,
+  "clear vs severely degraded": 0.8210380493415759,
+  "overall_score": 0.7996641198819823
+}

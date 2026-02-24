@@ -1,0 +1,8 @@
+{
+  "name": "water_original_3840x2160_q0.source",
+  "distorted": "water_original_3840x2160_q0.source.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.692984104156494,
+  "ts": "2025-09-01 23:42:15.001930"
+}

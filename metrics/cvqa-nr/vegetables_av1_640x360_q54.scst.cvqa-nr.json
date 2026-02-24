@@ -1,0 +1,8 @@
+{
+  "name": "vegetables_av1_640x360_q54.scst",
+  "distorted": "vegetables_av1_640x360_q54.scst.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.7043633460998535,
+  "ts": "2025-09-01 23:12:31.975849"
+}

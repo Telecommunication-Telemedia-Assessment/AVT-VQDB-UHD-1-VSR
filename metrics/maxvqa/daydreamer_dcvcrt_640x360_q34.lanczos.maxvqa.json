@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:20:27",
+  "distorted": "daydreamer_dcvcrt_640x360_q34.lanczos.mkv",
+  "high quality vs low quality": 0.5442630082300015,
+  "good content vs bad content": 0.4678776160113594,
+  "organized composition vs chaotic composition": 0.3058061182704912,
+  "vibrant color vs faded color": 0.5802406679310317,
+  "contrastive lighting vs gloomy lighting": 0.5737639483861952,
+  "consistent trajectory vs incoherent trajectory": 0.7306925712187762,
+  "good aesthetics vs bad aesthetics": 0.5312914656094851,
+  "sharp vs fuzzy": 0.7034516739272094,
+  "in-focus vs out-of-focus": 0.6177644502338157,
+  "noiseless vs noisy": 0.7142532613943877,
+  "clear-motion vs blurry-motion": 0.2849906090538985,
+  "stable vs shaky": 0.9334105489570744,
+  "well-exposed vs poorly-exposed": 0.7442986947502593,
+  "original vs compressed": 0.6978854866947645,
+  "fluent vs choppy": 0.6082288093343327,
+  "clear vs severely degraded": 0.5120404138916086,
+  "overall_score": 0.5968912089934182
+}

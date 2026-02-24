@@ -1,0 +1,36 @@
+{
+  "name": "giftmord_original_640x360_q0.scst",
+  "source": "giftmord",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "giftmord_original_640x360_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 59064118,
+    "filesize": 59064118,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:40",
+    "input": "",
+    "output": "giftmord_original_640x360_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "scst",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 62169.01,
+    "spf": 0,
+    "start_time": "2025-07-29 09:30:20",
+    "input": "",
+    "output": "",
+    "command": "python inference_SCST.py --ckpt_model_path checkpoints/stcm_unet.pth --decoder_tiled_size 224 --encoder_tiled_size 2048 --num_inference_steps 20 --latent_tiled_size 96 --video_path /scratch/behe5421/src/upscale/png/360/giftmord_original_640x360_q0.decoded/ --added_noise_level 350 --init_noise_level 999 --output_dir /scratch/behe5421/dst/upscaled/SCST/giftmord_original_640x360_q0.decoded.scst --upscale 6 --process_size 768 --overlap_frame 1 --unet_config_path models/configs/stcm.yaml --seed 42 --num_frame 8 --prompt A man and a woman are sitting on a sofa in a room, and a woman is wearing a black dress. --negative_prompt blurry, dotted, noise, raster lines, unclear, lowres, over-smoothed --guidance_scale 5.0 --frame_rate 60 --pretrained_model_path checkpoints/stable-diffusion-2-1-base --controlnet_path checkpoints/controlnet --save_video"
+  }
+}

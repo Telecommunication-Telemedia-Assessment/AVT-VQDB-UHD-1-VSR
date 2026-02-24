@@ -1,0 +1,9 @@
+{
+  "name": "vegetables_original_1280x720_q0.dove",
+  "distorted": "vegetables_original_1280x720_q0.dove.mkv",
+  "reference": "vegetables_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.8986949920654297,
+  "ts": "2025-09-02 00:37:06.200952"
+}

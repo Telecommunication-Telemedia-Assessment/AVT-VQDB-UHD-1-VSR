@@ -1,0 +1,9 @@
+{
+  "name": "daydreamer_original_1280x720_q0.dove",
+  "distorted": "daydreamer_original_1280x720_q0.dove.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.5805792808532715,
+  "ts": "2025-09-02 00:30:19.260951"
+}

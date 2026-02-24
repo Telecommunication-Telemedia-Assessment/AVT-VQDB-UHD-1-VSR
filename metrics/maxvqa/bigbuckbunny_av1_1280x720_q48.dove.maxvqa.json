@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 03:24:19",
+  "distorted": "bigbuckbunny_av1_1280x720_q48.dove.mkv",
+  "high quality vs low quality": 0.8582113690120002,
+  "good content vs bad content": 0.8395556565785897,
+  "organized composition vs chaotic composition": 0.6620678063739112,
+  "vibrant color vs faded color": 0.8399762366573716,
+  "contrastive lighting vs gloomy lighting": 0.7839911444920983,
+  "consistent trajectory vs incoherent trajectory": 0.8884213743989685,
+  "good aesthetics vs bad aesthetics": 0.8550454582353831,
+  "sharp vs fuzzy": 0.8941484043615626,
+  "in-focus vs out-of-focus": 0.8365156397013888,
+  "noiseless vs noisy": 0.8981453581373373,
+  "clear-motion vs blurry-motion": 0.6570031056358264,
+  "stable vs shaky": 0.9596598335074267,
+  "well-exposed vs poorly-exposed": 0.8951970249579265,
+  "original vs compressed": 0.8753220374302112,
+  "fluent vs choppy": 0.8269977584686422,
+  "clear vs severely degraded": 0.8719180426348594,
+  "overall_score": 0.8401360156614691
+}

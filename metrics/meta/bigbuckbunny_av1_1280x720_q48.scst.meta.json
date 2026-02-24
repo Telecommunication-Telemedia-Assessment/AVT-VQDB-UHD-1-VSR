@@ -1,0 +1,36 @@
+{
+  "name": "bigbuckbunny_av1_1280x720_q48.scst",
+  "source": "bigbuckbunny",
+  "frames": 600,
+  "fps": 60,
+  "encoding": {
+    "name": "bigbuckbunny_av1_1280x720_q48",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 48,
+    "bitrate": 874343.2,
+    "filesize": 1092929,
+    "width": 1280,
+    "height": 720,
+    "resolution": "720p",
+    "encoding_time": 395.5699656009674,
+    "spf": 0.659283,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "bigbuck_bunny_8bit.yuv",
+    "output": "bigbuckbunny_av1_1280x720_q48.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=1280 --height=720 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=48 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/720p/bigbuckbunny_av1_1280x720_q48.bin /scratch/behe5421/src/yuv/720p/bigbuck_bunny_8bit.yuv"
+  },
+  "upscaling": {
+    "method": "scst",
+    "upscale_factor": 3,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 74965.9,
+    "spf": 124.943166667,
+    "start_time": "2025-07-25 07:45:08",
+    "input": "",
+    "output": "",
+    "command": "python inference_SCST.py --ckpt_model_path checkpoints/stcm_unet.pth --decoder_tiled_size 224 --encoder_tiled_size 2048 --num_inference_steps 20 --latent_tiled_size 96 --video_path /scratch/behe5421/src/upscale/png/720/bigbuckbunny_av1_1280x720_q48.decoded/ --added_noise_level 350 --init_noise_level 999 --output_dir /scratch/behe5421/dst/upscaled/SCST/bigbuckbunny_av1_1280x720_q48.decoded.scst --upscale 3 --process_size 768 --overlap_frame 1 --unet_config_path models/configs/stcm.yaml --seed 42 --num_frame 8 --prompt There is a tree, a butterfly, a white rabbit and a squirrel. --negative_prompt blurry, dotted, noise, raster lines, unclear, lowres, over-smoothed --guidance_scale 5.0 --frame_rate 60 --pretrained_model_path checkpoints/stable-diffusion-2-1-base --controlnet_path checkpoints/controlnet --save_video"
+  }
+}

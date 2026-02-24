@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 05:22:30",
+  "distorted": "vegetables_dcvcrt_1280x720_q42.starlightmini.mkv",
+  "high quality vs low quality": 0.7790536294204121,
+  "good content vs bad content": 0.7253346401762063,
+  "organized composition vs chaotic composition": 0.5624117247256623,
+  "vibrant color vs faded color": 0.7867164363244104,
+  "contrastive lighting vs gloomy lighting": 0.737002281097304,
+  "consistent trajectory vs incoherent trajectory": 0.8521781820653123,
+  "good aesthetics vs bad aesthetics": 0.7637590435613181,
+  "sharp vs fuzzy": 0.82930077197086,
+  "in-focus vs out-of-focus": 0.759483518159399,
+  "noiseless vs noisy": 0.8405653223892793,
+  "clear-motion vs blurry-motion": 0.5039952740427932,
+  "stable vs shaky": 0.9572356581217345,
+  "well-exposed vs poorly-exposed": 0.8450418495670835,
+  "original vs compressed": 0.8086776490239382,
+  "fluent vs choppy": 0.8004366850644566,
+  "clear vs severely degraded": 0.7710845077626053,
+  "overall_score": 0.7701423233420485
+}

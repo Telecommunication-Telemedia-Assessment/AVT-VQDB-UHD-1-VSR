@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 03:04:46",
+  "distorted": "daydreamer_av1_1280x720_q48.seedvr2.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 3.3410859147783865
+}

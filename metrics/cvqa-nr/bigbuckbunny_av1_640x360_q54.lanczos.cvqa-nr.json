@@ -1,0 +1,8 @@
+{
+  "name": "bigbuckbunny_av1_640x360_q54.lanczos",
+  "distorted": "bigbuckbunny_av1_640x360_q54.lanczos.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.555901527404785,
+  "ts": "2025-09-01 23:14:48.088104"
+}

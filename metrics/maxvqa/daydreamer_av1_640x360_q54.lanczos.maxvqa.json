@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 03:44:57",
+  "distorted": "daydreamer_av1_640x360_q54.lanczos.mkv",
+  "high quality vs low quality": 0.5497038184155478,
+  "good content vs bad content": 0.4677086734717013,
+  "organized composition vs chaotic composition": 0.2979472670127517,
+  "vibrant color vs faded color": 0.588544334473268,
+  "contrastive lighting vs gloomy lighting": 0.5795026587193055,
+  "consistent trajectory vs incoherent trajectory": 0.7392075570766138,
+  "good aesthetics vs bad aesthetics": 0.5292283854450529,
+  "sharp vs fuzzy": 0.7016771010204027,
+  "in-focus vs out-of-focus": 0.6269195406922307,
+  "noiseless vs noisy": 0.7136849783700677,
+  "clear-motion vs blurry-motion": 0.28851262247063525,
+  "stable vs shaky": 0.938650903727618,
+  "well-exposed vs poorly-exposed": 0.7178154528475739,
+  "original vs compressed": 0.6919955090417537,
+  "fluent vs choppy": 0.624019456068153,
+  "clear vs severely degraded": 0.52651836903988,
+  "overall_score": 0.5988522892432847
+}

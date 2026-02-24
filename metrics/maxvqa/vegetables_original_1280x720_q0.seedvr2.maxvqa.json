@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 02:42:51",
+  "distorted": "vegetables_original_1280x720_q0.seedvr2.mkv",
+  "high quality vs low quality": 0.7966839213583289,
+  "good content vs bad content": 0.7561072437069667,
+  "organized composition vs chaotic composition": 0.5383385204353094,
+  "vibrant color vs faded color": 0.79939500249357,
+  "contrastive lighting vs gloomy lighting": 0.7578676461086491,
+  "consistent trajectory vs incoherent trajectory": 0.8571136145208502,
+  "good aesthetics vs bad aesthetics": 0.7753441014567225,
+  "sharp vs fuzzy": 0.8358103316785818,
+  "in-focus vs out-of-focus": 0.7716691861595913,
+  "noiseless vs noisy": 0.8519173456388429,
+  "clear-motion vs blurry-motion": 0.4714473018017546,
+  "stable vs shaky": 0.9552755670633063,
+  "well-exposed vs poorly-exposed": 0.8504136091134018,
+  "original vs compressed": 0.7945996075796916,
+  "fluent vs choppy": 0.8101053552800387,
+  "clear vs severely degraded": 0.7879820184939503,
+  "overall_score": 0.7756293983055972
+}

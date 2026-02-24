@@ -1,0 +1,9 @@
+{
+  "name": "giftmord_dcvcrt_640x360_q34.lanczos",
+  "distorted": "giftmord_dcvcrt_640x360_q34.lanczos.mkv",
+  "reference": "giftmord_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.605755567550659,
+  "ts": "2025-09-02 00:32:41.623705"
+}

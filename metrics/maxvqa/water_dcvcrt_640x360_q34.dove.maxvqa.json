@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 06:35:31",
+  "distorted": "water_dcvcrt_640x360_q34.dove.mkv",
+  "high quality vs low quality": 0.7215268762354398,
+  "good content vs bad content": 0.6900084799199973,
+  "organized composition vs chaotic composition": 0.427603360025563,
+  "vibrant color vs faded color": 0.736232624746659,
+  "contrastive lighting vs gloomy lighting": 0.7114067224795312,
+  "consistent trajectory vs incoherent trajectory": 0.8125727374597852,
+  "good aesthetics vs bad aesthetics": 0.7039454769751868,
+  "sharp vs fuzzy": 0.8267874593260421,
+  "in-focus vs out-of-focus": 0.7309284605675612,
+  "noiseless vs noisy": 0.8436669162893145,
+  "clear-motion vs blurry-motion": 0.39842945046826417,
+  "stable vs shaky": 0.947412962668456,
+  "well-exposed vs poorly-exposed": 0.8317704030806059,
+  "original vs compressed": 0.8009513225572404,
+  "fluent vs choppy": 0.7857967514892149,
+  "clear vs severely degraded": 0.7134209737404121,
+  "overall_score": 0.7301538111268298
+}

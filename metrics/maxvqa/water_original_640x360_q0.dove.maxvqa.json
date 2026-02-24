@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 01:59:40",
+  "distorted": "water_original_640x360_q0.dove.mkv",
+  "high quality vs low quality": 0.7537787732217478,
+  "good content vs bad content": 0.7588099259841717,
+  "organized composition vs chaotic composition": 0.5131119749203205,
+  "vibrant color vs faded color": 0.7387664571585157,
+  "contrastive lighting vs gloomy lighting": 0.7231919521083826,
+  "consistent trajectory vs incoherent trajectory": 0.8396838365022068,
+  "good aesthetics vs bad aesthetics": 0.7501330294189259,
+  "sharp vs fuzzy": 0.8359896633366282,
+  "in-focus vs out-of-focus": 0.7647856809810534,
+  "noiseless vs noisy": 0.830525025404995,
+  "clear-motion vs blurry-motion": 0.44836230435794094,
+  "stable vs shaky": 0.9528168759433646,
+  "well-exposed vs poorly-exposed": 0.841929081045603,
+  "original vs compressed": 0.8088996600353505,
+  "fluent vs choppy": 0.7975223005634163,
+  "clear vs severely degraded": 0.7476614738914737,
+  "overall_score": 0.7566230009296311
+}

@@ -1,0 +1,36 @@
+{
+  "name": "sparks15_dcvcrt_640x360_q34.dove",
+  "source": "sparks15",
+  "frames": 480,
+  "fps": 60,
+  "encoding": {
+    "name": "sparks15_dcvcrt_640x360_q34",
+    "codec": "DCVC-RT",
+    "encoder": "DCVC-RT",
+    "quality": 34,
+    "bitrate": 296263.0,
+    "filesize": 296263,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 28.29275393486023,
+    "spf": 0.058943,
+    "start_time": "2025-05-21 14:40:06",
+    "input": "Sparks_cut_15.yuv",
+    "output": "sparks15_dcvcrt_640x360_q34.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/dcvcrt --model_path_i /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_image.pth.tar --model_path_p /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_video.pth.tar --qp_i 34 --qp_p 34 --rate_num 1 --test_config /tmp/1747831206805923255_Sparks_cut_15.yuv.json --cuda 1 --worker 1 --write_stream 1 --stream_path /scratch/behe5421/dst/encoded_videos/dcvcrt/360p --output_path /tmp/test.json --save_decoded_frame 1 --calc_ssim 0 --verbose 1 --verbose_json 1 --check_existing 0 --cuda_idx 1"
+  },
+  "upscaling": {
+    "method": "dove",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 12743.64035487175,
+    "spf": 26.549250739,
+    "start_time": "2025-07-06 20:12:17",
+    "input": "sparks15_dcvcrt_640x360_q34.decoded.mkv",
+    "output": "sparks15_dcvcrt_640x360_q34.decoded.DOVE_6x_T128_64_S3_256_B64",
+    "command": "python dove_inference.py --input_path /home/behe5421/flatdec/dec/sparks15_dcvcrt_640x360_q34.decoded.mkv --model_path /home/behe5421/nvc/avt-ml-codec-evaluation/build/DOVE/pretrained_models/DOVE --output_path /scratch/behe5421/dst/upscaled/DOVE --fps 60 --dtype bfloat16 --seed 42 --upscale_mode bilinear --upscale 6 --noise_step 0 --sr_noise_step 399 --is_cpu_offload False --is_vae_st True --tile_size_hw [0, 0] --tile_split_hw [3, 3] --overlap_hw [256, 256] --tile_blend 64 --chunk_len 128 --overlap_t 64"
+  }
+}

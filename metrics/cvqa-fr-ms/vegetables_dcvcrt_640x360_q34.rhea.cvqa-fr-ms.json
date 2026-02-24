@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 11:19:07",
+  "distorted": "vegetables_dcvcrt_640x360_q34.rhea.mkv",
+  "reference": "vegetables_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 3.522255030879881
+}

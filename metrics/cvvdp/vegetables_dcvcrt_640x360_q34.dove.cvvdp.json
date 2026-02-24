@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-01-07 05:10:12",
+  "distorted": "vegetables_dcvcrt_640x360_q34.dove.mkv",
+  "reference": "vegetables_original_3840x2160_q0.source.mkv",
+  "scaling": "bicubic",
+  "version": "ColorVideoVDP v0.5.4",
+  "pix_per_deg": 75.4,
+  "lpeak": 200.0,
+  "lblack": 0.2,
+  "display": "standard_4k",
+  "score": 8.4145
+}

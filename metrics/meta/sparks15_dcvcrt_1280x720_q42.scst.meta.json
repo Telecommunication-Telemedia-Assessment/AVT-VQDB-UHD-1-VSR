@@ -1,0 +1,36 @@
+{
+  "name": "sparks15_dcvcrt_1280x720_q42.scst",
+  "source": "sparks15",
+  "frames": 279,
+  "fps": 60,
+  "encoding": {
+    "name": "sparks15_dcvcrt_1280x720_q42",
+    "codec": "DCVC-RT",
+    "encoder": "DCVC-RT",
+    "quality": 42,
+    "bitrate": 3032968.6021505375,
+    "filesize": 1762913,
+    "width": 1280,
+    "height": 720,
+    "resolution": "720p",
+    "encoding_time": 35.54601073265076,
+    "spf": 0.127405,
+    "start_time": "2025-05-21 14:55:25",
+    "input": "Sparks_cut_15.yuv",
+    "output": "sparks15_dcvcrt_1280x720_q42.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/dcvcrt --model_path_i /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_image.pth.tar --model_path_p /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_video.pth.tar --qp_i 42 --qp_p 42 --rate_num 1 --test_config /tmp/1747832125523804047_Sparks_cut_15.yuv.json --cuda 1 --worker 1 --write_stream 1 --stream_path /scratch/behe5421/dst/encoded_videos/dcvcrt/720p --output_path /tmp/test.json --save_decoded_frame 1 --calc_ssim 0 --verbose 1 --verbose_json 1 --check_existing 0 --cuda_idx 1"
+  },
+  "upscaling": {
+    "method": "scst",
+    "upscale_factor": 3,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 61833.21,
+    "spf": 221.624408602,
+    "start_time": "2025-08-04 05:05:34",
+    "input": "",
+    "output": "",
+    "command": "python inference_SCST.py --ckpt_model_path checkpoints/stcm_unet.pth --decoder_tiled_size 224 --encoder_tiled_size 2048 --num_inference_steps 20 --latent_tiled_size 96 --video_path /scratch/behe5421/src/upscale/png/720/sparks15_dcvcrt_1280x720_q42.decoded --added_noise_level 350 --init_noise_level 999 --output_dir /scratch/behe5421/dst/upscaled/SCST/sparks15_dcvcrt_1280x720_q42.decoded.scst --upscale 3 --process_size 768 --overlap_frame 1 --unet_config_path models/configs/stcm.yaml --seed 42 --num_frame 8 --prompt A man is working with a piece of metal. --negative_prompt blurry, dotted, noise, raster lines, unclear, lowres, over-smoothed --guidance_scale 5.0 --frame_rate 60 --pretrained_model_path checkpoints/stable-diffusion-2-1-base --controlnet_path checkpoints/controlnet --save_video"
+  }
+}

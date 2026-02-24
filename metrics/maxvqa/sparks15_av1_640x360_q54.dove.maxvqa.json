@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:56:53",
+  "distorted": "sparks15_av1_640x360_q54.dove.mkv",
+  "high quality vs low quality": 0.6451317900427528,
+  "good content vs bad content": 0.5994858942148806,
+  "organized composition vs chaotic composition": 0.3468665400882499,
+  "vibrant color vs faded color": 0.6253548461831867,
+  "contrastive lighting vs gloomy lighting": 0.648163903357699,
+  "consistent trajectory vs incoherent trajectory": 0.7638494493838229,
+  "good aesthetics vs bad aesthetics": 0.6297466709933884,
+  "sharp vs fuzzy": 0.7836249566834659,
+  "in-focus vs out-of-focus": 0.6655803058063471,
+  "noiseless vs noisy": 0.8194971990075565,
+  "clear-motion vs blurry-motion": 0.33155389995227624,
+  "stable vs shaky": 0.9375268456992321,
+  "well-exposed vs poorly-exposed": 0.7971854113234897,
+  "original vs compressed": 0.7677970249775347,
+  "fluent vs choppy": 0.7268162470123101,
+  "clear vs severely degraded": 0.6403168512469606,
+  "overall_score": 0.670531114748322
+}

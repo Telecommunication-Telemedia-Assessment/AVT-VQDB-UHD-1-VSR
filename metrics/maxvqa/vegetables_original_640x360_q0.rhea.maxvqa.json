@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 03:57:37",
+  "distorted": "vegetables_original_640x360_q0.rhea.mkv",
+  "high quality vs low quality": 0.817276689004938,
+  "good content vs bad content": 0.7995783742610245,
+  "organized composition vs chaotic composition": 0.6065913236222691,
+  "vibrant color vs faded color": 0.8130247132419118,
+  "contrastive lighting vs gloomy lighting": 0.7613704015212059,
+  "consistent trajectory vs incoherent trajectory": 0.8723868323342562,
+  "good aesthetics vs bad aesthetics": 0.8128563877963618,
+  "sharp vs fuzzy": 0.8549674478221799,
+  "in-focus vs out-of-focus": 0.7918112746972292,
+  "noiseless vs noisy": 0.8722582224995272,
+  "clear-motion vs blurry-motion": 0.5252183391352014,
+  "stable vs shaky": 0.9574639242499619,
+  "well-exposed vs poorly-exposed": 0.8674627291261868,
+  "original vs compressed": 0.8290650354541067,
+  "fluent vs choppy": 0.816341249467353,
+  "clear vs severely degraded": 0.8222074204449988,
+  "overall_score": 0.8012425227924195
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:10:58",
+  "distorted": "daydreamer_dcvcrt_1280x720_q42.dove.mkv",
+  "high quality vs low quality": 0.7200611162440127,
+  "good content vs bad content": 0.6531438051268191,
+  "organized composition vs chaotic composition": 0.41515953150643137,
+  "vibrant color vs faded color": 0.7134995772257442,
+  "contrastive lighting vs gloomy lighting": 0.6865249940047179,
+  "consistent trajectory vs incoherent trajectory": 0.7918972997359928,
+  "good aesthetics vs bad aesthetics": 0.6842863663943931,
+  "sharp vs fuzzy": 0.8283785633970424,
+  "in-focus vs out-of-focus": 0.7613170504312855,
+  "noiseless vs noisy": 0.8338622030699769,
+  "clear-motion vs blurry-motion": 0.4213496535343806,
+  "stable vs shaky": 0.9451490865582624,
+  "well-exposed vs poorly-exposed": 0.8150526709422251,
+  "original vs compressed": 0.7971717329140094,
+  "fluent vs choppy": 0.7827800871884241,
+  "clear vs severely degraded": 0.7091952269697586,
+  "overall_score": 0.7224268103277173
+}

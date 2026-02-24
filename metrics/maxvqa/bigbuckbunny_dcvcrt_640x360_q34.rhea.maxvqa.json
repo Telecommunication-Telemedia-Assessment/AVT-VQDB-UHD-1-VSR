@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 01:38:03",
+  "distorted": "bigbuckbunny_dcvcrt_640x360_q34.rhea.mkv",
+  "high quality vs low quality": 0.8350195339789859,
+  "good content vs bad content": 0.8219669076759866,
+  "organized composition vs chaotic composition": 0.633995808392449,
+  "vibrant color vs faded color": 0.8396114837098083,
+  "contrastive lighting vs gloomy lighting": 0.776250263264109,
+  "consistent trajectory vs incoherent trajectory": 0.8783355901081965,
+  "good aesthetics vs bad aesthetics": 0.8398568011643518,
+  "sharp vs fuzzy": 0.8845471613991678,
+  "in-focus vs out-of-focus": 0.8244020348117455,
+  "noiseless vs noisy": 0.8947895168215009,
+  "clear-motion vs blurry-motion": 0.6108845598298488,
+  "stable vs shaky": 0.9582618137942135,
+  "well-exposed vs poorly-exposed": 0.8877518834116904,
+  "original vs compressed": 0.8598874467697242,
+  "fluent vs choppy": 0.8068788628490116,
+  "clear vs severely degraded": 0.8437747280569978,
+  "overall_score": 0.8247633997523616
+}

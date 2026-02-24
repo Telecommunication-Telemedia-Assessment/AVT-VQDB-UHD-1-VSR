@@ -1,0 +1,36 @@
+{
+  "name": "sparks15_original_640x360_q0.starlightmini",
+  "source": "sparks15",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "sparks15_original_640x360_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 66777251,
+    "filesize": 66777251,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:41",
+    "input": "",
+    "output": "sparks15_original_640x360_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 6010.0,
+    "spf": 0,
+    "start_time": "2025-08-18 17:21:38",
+    "input": "sparks15_original_640x360_q0.decoded.prescaled_540p_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "daydreamer_dcvcrt_640x360_q34.starlightmini",
+  "distorted": "daydreamer_dcvcrt_640x360_q34.starlightmini.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.2007651329040527,
+  "ts": "2025-09-02 01:29:52.843625"
+}

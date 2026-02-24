@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 05:46:44",
+  "distorted": "giftmord_dcvcrt_640x360_q34.rhea.mkv",
+  "high quality vs low quality": 0.8204824284217995,
+  "good content vs bad content": 0.7971122175368467,
+  "organized composition vs chaotic composition": 0.5196216492167516,
+  "vibrant color vs faded color": 0.8281648245987928,
+  "contrastive lighting vs gloomy lighting": 0.7659123195915815,
+  "consistent trajectory vs incoherent trajectory": 0.8429784515793054,
+  "good aesthetics vs bad aesthetics": 0.8092009984200682,
+  "sharp vs fuzzy": 0.8806174452694472,
+  "in-focus vs out-of-focus": 0.8101420409332327,
+  "noiseless vs noisy": 0.8985187966855014,
+  "clear-motion vs blurry-motion": 0.500083629019478,
+  "stable vs shaky": 0.9482951452567503,
+  "well-exposed vs poorly-exposed": 0.8841803599620397,
+  "original vs compressed": 0.8648504816749186,
+  "fluent vs choppy": 0.8128479468140795,
+  "clear vs severely degraded": 0.8277538775122747,
+  "overall_score": 0.8006726632808042
+}

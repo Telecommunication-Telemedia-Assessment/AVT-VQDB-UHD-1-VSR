@@ -1,0 +1,9 @@
+{
+  "name": "water_original_1280x720_q0.scst",
+  "distorted": "water_original_1280x720_q0.scst.mkv",
+  "reference": "water_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.7188704013824463,
+  "ts": "2025-09-02 00:26:18.974241"
+}

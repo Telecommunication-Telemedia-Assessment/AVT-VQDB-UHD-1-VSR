@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:27:57",
+  "distorted": "daydreamer_original_640x360_q0.seedvr2.mkv",
+  "high quality vs low quality": 0.5725201902952958,
+  "good content vs bad content": 0.4843864652967087,
+  "organized composition vs chaotic composition": 0.29700715838997577,
+  "vibrant color vs faded color": 0.6004620764997546,
+  "contrastive lighting vs gloomy lighting": 0.5758507810178524,
+  "consistent trajectory vs incoherent trajectory": 0.7304316994414553,
+  "good aesthetics vs bad aesthetics": 0.5338225276985505,
+  "sharp vs fuzzy": 0.7410766288961291,
+  "in-focus vs out-of-focus": 0.6671133557581486,
+  "noiseless vs noisy": 0.721654060739944,
+  "clear-motion vs blurry-motion": 0.2999581158733503,
+  "stable vs shaky": 0.9329227322178254,
+  "well-exposed vs poorly-exposed": 0.7408081955680987,
+  "original vs compressed": 0.6984318608830594,
+  "fluent vs choppy": 0.6295029053189559,
+  "clear vs severely degraded": 0.547849649343065,
+  "overall_score": 0.6108624002023857
+}

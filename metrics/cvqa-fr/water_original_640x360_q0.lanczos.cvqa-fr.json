@@ -1,0 +1,9 @@
+{
+  "name": "water_original_640x360_q0.lanczos",
+  "distorted": "water_original_640x360_q0.lanczos.mkv",
+  "reference": "water_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 4.101758003234863,
+  "ts": "2025-09-02 00:46:06.173970"
+}

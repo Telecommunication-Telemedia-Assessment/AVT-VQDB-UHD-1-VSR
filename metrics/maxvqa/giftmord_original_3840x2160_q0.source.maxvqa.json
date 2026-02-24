@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:57:48",
+  "distorted": "giftmord_original_3840x2160_q0.source.mkv",
+  "high quality vs low quality": 0.5632713193507329,
+  "good content vs bad content": 0.5219157451013892,
+  "organized composition vs chaotic composition": 0.2410059899378903,
+  "vibrant color vs faded color": 0.7056586326715539,
+  "contrastive lighting vs gloomy lighting": 0.6554716888220296,
+  "consistent trajectory vs incoherent trajectory": 0.6991770117058137,
+  "good aesthetics vs bad aesthetics": 0.5501874816144487,
+  "sharp vs fuzzy": 0.736173074285496,
+  "in-focus vs out-of-focus": 0.6354910099859103,
+  "noiseless vs noisy": 0.7477851501298406,
+  "clear-motion vs blurry-motion": 0.25887185885695746,
+  "stable vs shaky": 0.9153973878400083,
+  "well-exposed vs poorly-exposed": 0.7835972873158376,
+  "original vs compressed": 0.7150566193427785,
+  "fluent vs choppy": 0.7155752160718233,
+  "clear vs severely degraded": 0.5537738194377408,
+  "overall_score": 0.6249005807793907
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:09:12",
+  "distorted": "vegetables_original_1280x720_q0.lanczos.mkv",
+  "high quality vs low quality": 0.7979211267804676,
+  "good content vs bad content": 0.778183389420231,
+  "organized composition vs chaotic composition": 0.5986653112975502,
+  "vibrant color vs faded color": 0.8049320290580798,
+  "contrastive lighting vs gloomy lighting": 0.753390156128432,
+  "consistent trajectory vs incoherent trajectory": 0.8715905213051358,
+  "good aesthetics vs bad aesthetics": 0.7885132606881541,
+  "sharp vs fuzzy": 0.8211215289315792,
+  "in-focus vs out-of-focus": 0.733282074637504,
+  "noiseless vs noisy": 0.8519408754306852,
+  "clear-motion vs blurry-motion": 0.478613956864639,
+  "stable vs shaky": 0.9570812155740664,
+  "well-exposed vs poorly-exposed": 0.8564433609703163,
+  "original vs compressed": 0.789191121409654,
+  "fluent vs choppy": 0.8143068996402056,
+  "clear vs severely degraded": 0.800524069392675,
+  "overall_score": 0.7809813060955859
+}

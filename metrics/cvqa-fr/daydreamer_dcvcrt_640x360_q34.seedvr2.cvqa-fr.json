@@ -1,0 +1,9 @@
+{
+  "name": "daydreamer_dcvcrt_640x360_q34.seedvr2",
+  "distorted": "daydreamer_dcvcrt_640x360_q34.seedvr2.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.503436803817749,
+  "ts": "2025-09-02 01:18:07.210649"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "daydreamer_original_640x360_q0.starlightmini",
+  "source": "daydreamer",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "daydreamer_original_640x360_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 53110447,
+    "filesize": 53110447,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:40",
+    "input": "",
+    "output": "daydreamer_original_640x360_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 5898.0,
+    "spf": 0,
+    "start_time": "2025-08-15 04:58:30",
+    "input": "daydreamer_original_640x360_q0.decoded.prescaled_540p_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

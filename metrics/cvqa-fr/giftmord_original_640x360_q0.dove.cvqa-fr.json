@@ -1,0 +1,9 @@
+{
+  "name": "giftmord_original_640x360_q0.dove",
+  "distorted": "giftmord_original_640x360_q0.dove.mkv",
+  "reference": "giftmord_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.7108876705169678,
+  "ts": "2025-09-02 00:44:29.562227"
+}

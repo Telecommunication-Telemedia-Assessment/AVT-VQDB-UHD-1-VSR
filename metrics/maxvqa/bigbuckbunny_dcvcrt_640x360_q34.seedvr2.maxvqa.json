@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 06:33:34",
+  "distorted": "bigbuckbunny_dcvcrt_640x360_q34.seedvr2.mkv",
+  "high quality vs low quality": 0.7684192113426727,
+  "good content vs bad content": 0.7877523958065964,
+  "organized composition vs chaotic composition": 0.6182155681440974,
+  "vibrant color vs faded color": 0.8060133707577081,
+  "contrastive lighting vs gloomy lighting": 0.7512435865792683,
+  "consistent trajectory vs incoherent trajectory": 0.8522341017469041,
+  "good aesthetics vs bad aesthetics": 0.7933835364444474,
+  "sharp vs fuzzy": 0.8206165555780424,
+  "in-focus vs out-of-focus": 0.73405352029374,
+  "noiseless vs noisy": 0.8401168376415558,
+  "clear-motion vs blurry-motion": 0.4623180681678355,
+  "stable vs shaky": 0.9586017505190827,
+  "well-exposed vs poorly-exposed": 0.8501552707586776,
+  "original vs compressed": 0.8097528663651594,
+  "fluent vs choppy": 0.7729151007446228,
+  "clear vs severely degraded": 0.7513412004318802,
+  "overall_score": 0.7735708088326432
+}

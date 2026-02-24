@@ -1,0 +1,36 @@
+{
+  "name": "water_original_1280x720_q0.starlightmini",
+  "source": "water",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "water_original_1280x720_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 290019239,
+    "filesize": 361944011,
+    "width": 1280,
+    "height": 720,
+    "resolution": "720p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:53",
+    "input": "",
+    "output": "water_original_1280x720_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 3,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 7710.0,
+    "spf": 0,
+    "start_time": "2025-08-18 13:22:54",
+    "input": "water_original_1280x720_q0.decoded_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

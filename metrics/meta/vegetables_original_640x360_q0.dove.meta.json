@@ -1,0 +1,36 @@
+{
+  "name": "vegetables_original_640x360_q0.dove",
+  "source": "vegetables",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "vegetables_original_640x360_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 31919706,
+    "filesize": 39899633,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:41",
+    "input": "",
+    "output": "vegetables_original_640x360_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "dove",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 16340.034484148026,
+    "spf": 0,
+    "start_time": "2025-07-26 14:03:20",
+    "input": "vegetables_original_640x360_q0.decoded.mkv",
+    "output": "vegetables_original_640x360_q0.decoded.DOVE_6x_T128_64_S3_256_B64",
+    "command": "python dove_inference.py --input_path /scratch/behe5421/src/upscale/mkv/360/vegetables_original_640x360_q0.decoded.mkv --model_path /home/behe5421/nvc/avt-ml-codec-evaluation/build/DOVE/pretrained_models/DOVE --output_path /scratch/behe5421/dst/upscaled/DOVE --fps 60 --dtype bfloat16 --seed 42 --upscale_mode bilinear --upscale 6 --noise_step 0 --sr_noise_step 399 --is_cpu_offload False --is_vae_st True --tile_size_hw [0, 0] --tile_split_hw [3, 3] --overlap_hw [256, 256] --tile_blend 64 --chunk_len 128 --overlap_t 64"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "giftmord_av1_1280x720_q48.rhea",
+  "distorted": "giftmord_av1_1280x720_q48.rhea.mkv",
+  "reference": "giftmord_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.0988433361053467,
+  "ts": "2025-09-02 00:53:54.921397"
+}

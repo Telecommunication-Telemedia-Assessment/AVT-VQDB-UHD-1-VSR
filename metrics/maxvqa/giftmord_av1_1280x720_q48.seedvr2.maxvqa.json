@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:31:17",
+  "distorted": "giftmord_av1_1280x720_q48.seedvr2.mkv",
+  "high quality vs low quality": 0.7792220548968007,
+  "good content vs bad content": 0.7704635513117262,
+  "organized composition vs chaotic composition": 0.499532818184582,
+  "vibrant color vs faded color": 0.8049632036095627,
+  "contrastive lighting vs gloomy lighting": 0.7396248575225417,
+  "consistent trajectory vs incoherent trajectory": 0.8191384931626416,
+  "good aesthetics vs bad aesthetics": 0.7713617052572214,
+  "sharp vs fuzzy": 0.8599051012432445,
+  "in-focus vs out-of-focus": 0.7809455189890784,
+  "noiseless vs noisy": 0.8665864764833521,
+  "clear-motion vs blurry-motion": 0.4332503908854855,
+  "stable vs shaky": 0.9400630288930639,
+  "well-exposed vs poorly-exposed": 0.8639050601893888,
+  "original vs compressed": 0.833602741267089,
+  "fluent vs choppy": 0.7969363066692409,
+  "clear vs severely degraded": 0.7725375203258659,
+  "overall_score": 0.7707524268056805
+}

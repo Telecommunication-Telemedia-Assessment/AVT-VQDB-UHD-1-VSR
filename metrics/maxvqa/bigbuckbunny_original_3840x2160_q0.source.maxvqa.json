@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:06:55",
+  "distorted": "bigbuckbunny_original_3840x2160_q0.source.mkv",
+  "high quality vs low quality": 0.8706756398076816,
+  "good content vs bad content": 0.854986773640845,
+  "organized composition vs chaotic composition": 0.733300882703635,
+  "vibrant color vs faded color": 0.8522934151333075,
+  "contrastive lighting vs gloomy lighting": 0.7831193004889978,
+  "consistent trajectory vs incoherent trajectory": 0.8984889366071226,
+  "good aesthetics vs bad aesthetics": 0.8770067177802648,
+  "sharp vs fuzzy": 0.9063046336281095,
+  "in-focus vs out-of-focus": 0.8485859528481249,
+  "noiseless vs noisy": 0.9163536786970943,
+  "clear-motion vs blurry-motion": 0.7388071189265476,
+  "stable vs shaky": 0.9619722828723051,
+  "well-exposed vs poorly-exposed": 0.9003087088273812,
+  "original vs compressed": 0.8900687651799717,
+  "fluent vs choppy": 0.8181412483311404,
+  "clear vs severely degraded": 0.893326262486679,
+  "overall_score": 0.8589837698724506
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sparks15_av1_1280x720_q48.lanczos",
+  "distorted": "sparks15_av1_1280x720_q48.lanczos.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.554256439208984,
+  "ts": "2025-09-01 23:32:48.907646"
+}

@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 11:28:40",
+  "distorted": "giftmord_original_640x360_q0.dove.mkv",
+  "reference": "giftmord_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 3.6885662526342933
+}

@@ -1,0 +1,9 @@
+{
+  "name": "bigbuckbunny_original_3840x2160_q0.source",
+  "distorted": "bigbuckbunny_original_3840x2160_q0.source.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 4.672545909881592,
+  "ts": "2025-09-02 01:04:57.926454"
+}

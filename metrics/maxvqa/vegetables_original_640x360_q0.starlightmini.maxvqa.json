@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 05:09:42",
+  "distorted": "vegetables_original_640x360_q0.starlightmini.mkv",
+  "high quality vs low quality": 0.7730005842921254,
+  "good content vs bad content": 0.7360426587649149,
+  "organized composition vs chaotic composition": 0.5296043014799667,
+  "vibrant color vs faded color": 0.7835583034401723,
+  "contrastive lighting vs gloomy lighting": 0.7333497673321396,
+  "consistent trajectory vs incoherent trajectory": 0.8556872907981912,
+  "good aesthetics vs bad aesthetics": 0.7540686603587625,
+  "sharp vs fuzzy": 0.8365965405968045,
+  "in-focus vs out-of-focus": 0.7754604734707357,
+  "noiseless vs noisy": 0.8459968306916085,
+  "clear-motion vs blurry-motion": 0.45103093890739226,
+  "stable vs shaky": 0.9571650501016147,
+  "well-exposed vs poorly-exposed": 0.8515241415803856,
+  "original vs compressed": 0.8143255768845976,
+  "fluent vs choppy": 0.8073943216183145,
+  "clear vs severely degraded": 0.7685414527098352,
+  "overall_score": 0.7670841808142226
+}

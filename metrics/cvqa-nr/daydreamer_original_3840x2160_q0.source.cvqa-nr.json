@@ -1,0 +1,8 @@
+{
+  "name": "daydreamer_original_3840x2160_q0.source",
+  "distorted": "daydreamer_original_3840x2160_q0.source.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.599305152893066,
+  "ts": "2025-09-01 23:41:14.997379"
+}

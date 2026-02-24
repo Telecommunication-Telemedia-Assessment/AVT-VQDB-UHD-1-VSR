@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:32:15",
+  "distorted": "water_original_1280x720_q0.seedvr2.mkv",
+  "high quality vs low quality": 0.6294497521013843,
+  "good content vs bad content": 0.5754689940236339,
+  "organized composition vs chaotic composition": 0.28248843635699794,
+  "vibrant color vs faded color": 0.6571646677247817,
+  "contrastive lighting vs gloomy lighting": 0.6587845540204961,
+  "consistent trajectory vs incoherent trajectory": 0.7566257339943385,
+  "good aesthetics vs bad aesthetics": 0.5987166493070616,
+  "sharp vs fuzzy": 0.7751563349233738,
+  "in-focus vs out-of-focus": 0.670692529099573,
+  "noiseless vs noisy": 0.7731260746789704,
+  "clear-motion vs blurry-motion": 0.3183220815164016,
+  "stable vs shaky": 0.9365557229893806,
+  "well-exposed vs poorly-exposed": 0.8070733639891071,
+  "original vs compressed": 0.7290240596827603,
+  "fluent vs choppy": 0.6940480676494314,
+  "clear vs severely degraded": 0.6183694709372768,
+  "overall_score": 0.6550666558121855
+}

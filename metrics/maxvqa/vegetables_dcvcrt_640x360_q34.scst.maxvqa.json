@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 05:18:28",
+  "distorted": "vegetables_dcvcrt_640x360_q34.scst.mkv",
+  "high quality vs low quality": 0.7262486534271396,
+  "good content vs bad content": 0.6554663942975174,
+  "organized composition vs chaotic composition": 0.42199942077068525,
+  "vibrant color vs faded color": 0.7585825814392607,
+  "contrastive lighting vs gloomy lighting": 0.7199159971673394,
+  "consistent trajectory vs incoherent trajectory": 0.8377054728961753,
+  "good aesthetics vs bad aesthetics": 0.6955573659266534,
+  "sharp vs fuzzy": 0.7662551846970777,
+  "in-focus vs out-of-focus": 0.7132712794993362,
+  "noiseless vs noisy": 0.7846007851007255,
+  "clear-motion vs blurry-motion": 0.38741481483947904,
+  "stable vs shaky": 0.9530582769705611,
+  "well-exposed vs poorly-exposed": 0.783284667532732,
+  "original vs compressed": 0.7348894403635854,
+  "fluent vs choppy": 0.7996101101691501,
+  "clear vs severely degraded": 0.7118939186860399,
+  "overall_score": 0.715609647736466
+}

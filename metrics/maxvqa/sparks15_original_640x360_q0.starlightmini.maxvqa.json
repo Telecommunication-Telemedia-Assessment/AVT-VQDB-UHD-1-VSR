@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 02:44:55",
+  "distorted": "sparks15_original_640x360_q0.starlightmini.mkv",
+  "high quality vs low quality": 0.7737763450997024,
+  "good content vs bad content": 0.7281609659094557,
+  "organized composition vs chaotic composition": 0.39643553983939095,
+  "vibrant color vs faded color": 0.7811664977179282,
+  "contrastive lighting vs gloomy lighting": 0.7268015654393692,
+  "consistent trajectory vs incoherent trajectory": 0.7845986840379693,
+  "good aesthetics vs bad aesthetics": 0.7450314968822497,
+  "sharp vs fuzzy": 0.8643646600753729,
+  "in-focus vs out-of-focus": 0.8032635152933203,
+  "noiseless vs noisy": 0.8716053056609007,
+  "clear-motion vs blurry-motion": 0.46875762358884804,
+  "stable vs shaky": 0.932703772187718,
+  "well-exposed vs poorly-exposed": 0.8383791169811239,
+  "original vs compressed": 0.8505808554865629,
+  "fluent vs choppy": 0.7732835057203927,
+  "clear vs severely degraded": 0.7758321500416426,
+  "overall_score": 0.7571713499976217
+}

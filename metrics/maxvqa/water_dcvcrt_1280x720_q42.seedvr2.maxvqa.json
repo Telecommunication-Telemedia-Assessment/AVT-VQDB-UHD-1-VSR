@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:44:28",
+  "distorted": "water_dcvcrt_1280x720_q42.seedvr2.mkv",
+  "high quality vs low quality": 0.7682822986835013,
+  "good content vs bad content": 0.7526837424778358,
+  "organized composition vs chaotic composition": 0.4994102782129134,
+  "vibrant color vs faded color": 0.7797269210173399,
+  "contrastive lighting vs gloomy lighting": 0.7384272214650763,
+  "consistent trajectory vs incoherent trajectory": 0.8446078128978167,
+  "good aesthetics vs bad aesthetics": 0.7531908379996973,
+  "sharp vs fuzzy": 0.8373983223062914,
+  "in-focus vs out-of-focus": 0.7622203760403887,
+  "noiseless vs noisy": 0.8525347750028848,
+  "clear-motion vs blurry-motion": 0.42068325800373507,
+  "stable vs shaky": 0.9475578058340812,
+  "well-exposed vs poorly-exposed": 0.8507646001813384,
+  "original vs compressed": 0.8027997410587695,
+  "fluent vs choppy": 0.7870582557505187,
+  "clear vs severely degraded": 0.7586560891997394,
+  "overall_score": 0.7597501460082456
+}

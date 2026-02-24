@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:54:52",
+  "distorted": "vegetables_dcvcrt_1280x720_q42.lanczos.mkv",
+  "high quality vs low quality": 0.7773692447354196,
+  "good content vs bad content": 0.7022995379243538,
+  "organized composition vs chaotic composition": 0.5675434578643584,
+  "vibrant color vs faded color": 0.7835001472412861,
+  "contrastive lighting vs gloomy lighting": 0.7429140744040321,
+  "consistent trajectory vs incoherent trajectory": 0.8622743141676719,
+  "good aesthetics vs bad aesthetics": 0.7550886823083253,
+  "sharp vs fuzzy": 0.8124987045613395,
+  "in-focus vs out-of-focus": 0.7123453295056983,
+  "noiseless vs noisy": 0.8383184328521671,
+  "clear-motion vs blurry-motion": 0.4693167376207385,
+  "stable vs shaky": 0.9578913123236912,
+  "well-exposed vs poorly-exposed": 0.8677120439536684,
+  "original vs compressed": 0.7830344804259305,
+  "fluent vs choppy": 0.8012801969869139,
+  "clear vs severely degraded": 0.7699163155657869,
+  "overall_score": 0.7627064382775863
+}

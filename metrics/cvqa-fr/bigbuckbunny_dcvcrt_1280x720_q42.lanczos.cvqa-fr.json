@@ -1,0 +1,9 @@
+{
+  "name": "bigbuckbunny_dcvcrt_1280x720_q42.lanczos",
+  "distorted": "bigbuckbunny_dcvcrt_1280x720_q42.lanczos.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 4.091686248779297,
+  "ts": "2025-09-02 00:23:26.015103"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "water_av1_640x360_q54.rhea",
+  "source": "water",
+  "frames": 599,
+  "fps": 60,
+  "encoding": {
+    "name": "water_av1_640x360_q54",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 54,
+    "bitrate": 587084.8747913189,
+    "filesize": 732633,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 381.0789752006531,
+    "spf": 0.636192,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "water_netflix.yuv",
+    "output": "water_av1_640x360_q54.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=640 --height=360 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=54 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/360p/water_av1_640x360_q54.bin /scratch/behe5421/src/yuv/360p/water_netflix.yuv"
+  },
+  "upscaling": {
+    "method": "rhea",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 0,
+    "spf": 0.0,
+    "start_time": "2025-08-12 02:00:30",
+    "input": "",
+    "output": "water_av1_640x360_q54.rhea.mkv",
+    "command": "Topaz Video AI 7.0.1; Enhanced using rhea-1; mode: auto; revert compression at 0; recover details at 0; sharpen at 0; reduce noise at 0; dehalo at 0; anti-alias/deblur at 0; focus fix Off; and recover original detail at 20. Changed resolution to 3840x2160"
+  }
+}

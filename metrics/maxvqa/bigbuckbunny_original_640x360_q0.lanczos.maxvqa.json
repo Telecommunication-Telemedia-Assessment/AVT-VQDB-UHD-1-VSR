@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 05:16:07",
+  "distorted": "bigbuckbunny_original_640x360_q0.lanczos.mkv",
+  "high quality vs low quality": 0.8492251350922537,
+  "good content vs bad content": 0.8365874106074922,
+  "organized composition vs chaotic composition": 0.6896892673856473,
+  "vibrant color vs faded color": 0.8393780640491092,
+  "contrastive lighting vs gloomy lighting": 0.7746341334689503,
+  "consistent trajectory vs incoherent trajectory": 0.8880786617930504,
+  "good aesthetics vs bad aesthetics": 0.8547780677754149,
+  "sharp vs fuzzy": 0.8824046506832273,
+  "in-focus vs out-of-focus": 0.8205973174131385,
+  "noiseless vs noisy": 0.8916895765880533,
+  "clear-motion vs blurry-motion": 0.6243938982862816,
+  "stable vs shaky": 0.9602159798716675,
+  "well-exposed vs poorly-exposed": 0.8878261561480072,
+  "original vs compressed": 0.8615934397998313,
+  "fluent vs choppy": 0.8230149671392918,
+  "clear vs severely degraded": 0.8562059001695286,
+  "overall_score": 0.8337695391419342
+}

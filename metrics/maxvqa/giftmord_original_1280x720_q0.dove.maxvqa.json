@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:06:50",
+  "distorted": "giftmord_original_1280x720_q0.dove.mkv",
+  "high quality vs low quality": 0.8409398888537443,
+  "good content vs bad content": 0.8282040167430653,
+  "organized composition vs chaotic composition": 0.6024497859650892,
+  "vibrant color vs faded color": 0.8368941652512971,
+  "contrastive lighting vs gloomy lighting": 0.7749698153257368,
+  "consistent trajectory vs incoherent trajectory": 0.8641984614390041,
+  "good aesthetics vs bad aesthetics": 0.8326535158544202,
+  "sharp vs fuzzy": 0.887829346240318,
+  "in-focus vs out-of-focus": 0.8416557062375191,
+  "noiseless vs noisy": 0.8911659645432501,
+  "clear-motion vs blurry-motion": 0.5593095929818493,
+  "stable vs shaky": 0.950770045420648,
+  "well-exposed vs poorly-exposed": 0.8796208020388672,
+  "original vs compressed": 0.8670700435251905,
+  "fluent vs choppy": 0.8215980108065615,
+  "clear vs severely degraded": 0.8484406306122712,
+  "overall_score": 0.820485611989927
+}

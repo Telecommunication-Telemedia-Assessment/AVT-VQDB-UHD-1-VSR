@@ -1,0 +1,36 @@
+{
+  "name": "sparks15_dcvcrt_1280x720_q42.seedvr2",
+  "source": "sparks15",
+  "frames": 279,
+  "fps": 60,
+  "encoding": {
+    "name": "sparks15_dcvcrt_1280x720_q42",
+    "codec": "DCVC-RT",
+    "encoder": "DCVC-RT",
+    "quality": 42,
+    "bitrate": 3032968.6021505375,
+    "filesize": 1762913,
+    "width": 1280,
+    "height": 720,
+    "resolution": "720p",
+    "encoding_time": 35.54601073265076,
+    "spf": 0.127405,
+    "start_time": "2025-05-21 14:55:25",
+    "input": "Sparks_cut_15.yuv",
+    "output": "sparks15_dcvcrt_1280x720_q42.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/dcvcrt --model_path_i /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_image.pth.tar --model_path_p /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_video.pth.tar --qp_i 42 --qp_p 42 --rate_num 1 --test_config /tmp/1747832125523804047_Sparks_cut_15.yuv.json --cuda 1 --worker 1 --write_stream 1 --stream_path /scratch/behe5421/dst/encoded_videos/dcvcrt/720p --output_path /tmp/test.json --save_decoded_frame 1 --calc_ssim 0 --verbose 1 --verbose_json 1 --check_existing 0 --cuda_idx 1"
+  },
+  "upscaling": {
+    "method": "seedvr2",
+    "upscale_factor": 3,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 6929.55,
+    "spf": 24.837096774,
+    "start_time": "2025-08-13 12:38:16",
+    "input": "sparks15_dcvcrt_1280x720_q42.decoded.mkv",
+    "output": "sparks15_dcvcrt_1280x720_q42.decoded.seedvr2_7B16_2160p_BS25_VAE900-1460-256-256_T12.mkv",
+    "command": "python inference_cli.py --video_path /scratch/behe5421/src/upscale/mkv/720/sparks15_dcvcrt_1280x720_q42.decoded.mkv --model seedvr2_ema_7b_fp16.safetensors --model_dir /scratch/behe5421/models/seedvr2/ --seed 42 --output_format png --output /scratch/behe5421/dst/upscaled/SEEDVR2/sparks15_dcvcrt_1280x720_q42.decoded.seedvr2_7B16_2160p_BS25_VAE900-1460-256-256_T12.mkv --resolution 2160 --batch_size 25 --blocks_to_swap 36 --vae_tile_size 900 1460 --vae_tile_overlap 256 256 --temporal_overlap 12 --prepend_frames 8 --preserve_vram --debug --use_none_blocking --offload_io_components --vae_tiling_enabled"
+  }
+}

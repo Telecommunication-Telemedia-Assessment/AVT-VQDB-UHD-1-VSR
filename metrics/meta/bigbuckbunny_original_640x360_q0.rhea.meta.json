@@ -1,0 +1,36 @@
+{
+  "name": "bigbuckbunny_original_640x360_q0.rhea",
+  "source": "bigbuckbunny",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "bigbuckbunny_original_640x360_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 15349128,
+    "filesize": 19186410,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:40",
+    "input": "",
+    "output": "bigbuckbunny_original_640x360_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "rhea",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 0,
+    "spf": 0,
+    "start_time": "2025-08-12 00:19:40",
+    "input": "",
+    "output": "bigbuckbunny_original_640x360_q0.rhea.mkv",
+    "command": "Topaz Video AI 7.0.1; Enhanced using rhea-1; mode: auto; revert compression at 0; recover details at 0; sharpen at 0; reduce noise at 0; dehalo at 0; anti-alias/deblur at 0; focus fix Off; and recover original detail at 20. Changed resolution to 3840x2160"
+  }
+}

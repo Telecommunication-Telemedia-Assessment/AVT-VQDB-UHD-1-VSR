@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-12-21 15:10:17",
+  "distorted": "water_original_3840x2160_q0.source.mkv",
+  "reference": "water_original_3840x2160_q0.mkv",
+  "metric": "ssimulacra2",
+  "mean_score": 100.0,
+  "min_score": 100.0,
+  "max_score": 100.0,
+  "frame_scores": [
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0
+  ],
+  "fps": 2
+}

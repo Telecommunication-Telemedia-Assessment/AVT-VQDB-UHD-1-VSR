@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:34:19",
+  "distorted": "bigbuckbunny_original_1280x720_q0.starlightmini.mkv",
+  "high quality vs low quality": 0.8719265856319985,
+  "good content vs bad content": 0.8609652280224847,
+  "organized composition vs chaotic composition": 0.6816148420752467,
+  "vibrant color vs faded color": 0.8488501865269661,
+  "contrastive lighting vs gloomy lighting": 0.7849342528095622,
+  "consistent trajectory vs incoherent trajectory": 0.8941660588920674,
+  "good aesthetics vs bad aesthetics": 0.8754434001549144,
+  "sharp vs fuzzy": 0.9032793292278947,
+  "in-focus vs out-of-focus": 0.8490420230502974,
+  "noiseless vs noisy": 0.9124736067078929,
+  "clear-motion vs blurry-motion": 0.6833998040405461,
+  "stable vs shaky": 0.9603390007211511,
+  "well-exposed vs poorly-exposed": 0.8974193538833187,
+  "original vs compressed": 0.8886041509726595,
+  "fluent vs choppy": 0.8252485550359835,
+  "clear vs severely degraded": 0.8822319086496757,
+  "overall_score": 0.8512461429001661
+}

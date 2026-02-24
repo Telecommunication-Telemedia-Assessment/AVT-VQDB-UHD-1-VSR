@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:43:48",
+  "distorted": "giftmord_original_640x360_q0.rhea.mkv",
+  "high quality vs low quality": 0.8025627561327077,
+  "good content vs bad content": 0.7866564797930412,
+  "organized composition vs chaotic composition": 0.4742415839015485,
+  "vibrant color vs faded color": 0.8156762072715433,
+  "contrastive lighting vs gloomy lighting": 0.7560908415417097,
+  "consistent trajectory vs incoherent trajectory": 0.8290481191017459,
+  "good aesthetics vs bad aesthetics": 0.8003461365936534,
+  "sharp vs fuzzy": 0.8759049449824858,
+  "in-focus vs out-of-focus": 0.8046566551516467,
+  "noiseless vs noisy": 0.8923601215241483,
+  "clear-motion vs blurry-motion": 0.48954093999612397,
+  "stable vs shaky": 0.9399066457998997,
+  "well-exposed vs poorly-exposed": 0.8748984318694597,
+  "original vs compressed": 0.8564496209516725,
+  "fluent vs choppy": 0.8034311535786439,
+  "clear vs severely degraded": 0.8175179918506302,
+  "overall_score": 0.7887055393775412
+}

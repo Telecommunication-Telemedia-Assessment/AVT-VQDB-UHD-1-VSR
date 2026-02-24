@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 06:12:24",
+  "distorted": "giftmord_dcvcrt_640x360_q34.lanczos.mkv",
+  "high quality vs low quality": 0.6944458999939458,
+  "good content vs bad content": 0.6643090109491108,
+  "organized composition vs chaotic composition": 0.39991850475617174,
+  "vibrant color vs faded color": 0.7411323237617155,
+  "contrastive lighting vs gloomy lighting": 0.6931255468425692,
+  "consistent trajectory vs incoherent trajectory": 0.7727057811273786,
+  "good aesthetics vs bad aesthetics": 0.6821918404668726,
+  "sharp vs fuzzy": 0.8139611576006505,
+  "in-focus vs out-of-focus": 0.708215754646019,
+  "noiseless vs noisy": 0.8209619761086744,
+  "clear-motion vs blurry-motion": 0.36216185453252264,
+  "stable vs shaky": 0.9349877527675335,
+  "well-exposed vs poorly-exposed": 0.8189166721585512,
+  "original vs compressed": 0.7883016437318046,
+  "fluent vs choppy": 0.7333661216012523,
+  "clear vs severely degraded": 0.6689058143790411,
+  "overall_score": 0.7061004784639883
+}

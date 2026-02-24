@@ -1,0 +1,36 @@
+{
+  "name": "water_original_3840x2160_q0.source",
+  "source": "water",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "water_original_3840x2160_q0",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 2243397221,
+    "filesize": 2799759732,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-04-23 19:00:40",
+    "input": "",
+    "output": "water_original_3840x2160_q0.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "source",
+    "upscale_factor": 0,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 0,
+    "spf": 0,
+    "start_time": "",
+    "input": "",
+    "output": "",
+    "command": ""
+  }
+}

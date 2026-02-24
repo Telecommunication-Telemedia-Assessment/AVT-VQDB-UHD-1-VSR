@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:50:40",
+  "distorted": "bigbuckbunny_dcvcrt_640x360_q34.starlightmini.mkv",
+  "high quality vs low quality": 0.8432823252620946,
+  "good content vs bad content": 0.817899224060147,
+  "organized composition vs chaotic composition": 0.634063570201116,
+  "vibrant color vs faded color": 0.8344601016650504,
+  "contrastive lighting vs gloomy lighting": 0.7752737874467,
+  "consistent trajectory vs incoherent trajectory": 0.8740964485168765,
+  "good aesthetics vs bad aesthetics": 0.8371122239947297,
+  "sharp vs fuzzy": 0.8858751334139282,
+  "in-focus vs out-of-focus": 0.8283691460912358,
+  "noiseless vs noisy": 0.8910770627875705,
+  "clear-motion vs blurry-motion": 0.5998636257968777,
+  "stable vs shaky": 0.9570546593162077,
+  "well-exposed vs poorly-exposed": 0.8841682335620528,
+  "original vs compressed": 0.8618836319470742,
+  "fluent vs choppy": 0.7999846674622896,
+  "clear vs severely degraded": 0.8392431856354513,
+  "overall_score": 0.8227316891974628
+}

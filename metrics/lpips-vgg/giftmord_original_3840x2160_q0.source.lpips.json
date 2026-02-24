@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-01-01 11:13:19",
+  "distorted": "giftmord_original_3840x2160_q0.source.mkv",
+  "reference": "giftmord_original_3840x2160_q0.source.mkv",
+  "lpips_version": "0.1",
+  "device": "cpu",
+  "net": "vgg",
+  "fps": 2,
+  "lpips-vgg": 0.0,
+  "lpips-vgg_min": 0.0,
+  "lpips-vgg_max": 0.0,
+  "num_frames": 16,
+  "frame_distances": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ]
+}

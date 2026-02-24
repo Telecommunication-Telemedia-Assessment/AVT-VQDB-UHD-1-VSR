@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 05:01:35",
+  "distorted": "giftmord_av1_640x360_q54.starlightmini.mkv",
+  "reference": "giftmord_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 2.816770067574292
+}

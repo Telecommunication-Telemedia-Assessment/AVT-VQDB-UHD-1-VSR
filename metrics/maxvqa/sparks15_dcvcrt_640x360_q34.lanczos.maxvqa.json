@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:18:51",
+  "distorted": "sparks15_dcvcrt_640x360_q34.lanczos.mkv",
+  "high quality vs low quality": 0.4800733818841449,
+  "good content vs bad content": 0.4478384222385698,
+  "organized composition vs chaotic composition": 0.2625538066035095,
+  "vibrant color vs faded color": 0.5244871140330324,
+  "contrastive lighting vs gloomy lighting": 0.5375398217386149,
+  "consistent trajectory vs incoherent trajectory": 0.6211020039112732,
+  "good aesthetics vs bad aesthetics": 0.4862210858207792,
+  "sharp vs fuzzy": 0.6677576432668278,
+  "in-focus vs out-of-focus": 0.5506220980740227,
+  "noiseless vs noisy": 0.7049336526056414,
+  "clear-motion vs blurry-motion": 0.2189324397362806,
+  "stable vs shaky": 0.9073812290494079,
+  "well-exposed vs poorly-exposed": 0.7318417237104843,
+  "original vs compressed": 0.6306161655818389,
+  "fluent vs choppy": 0.5119818285569417,
+  "clear vs severely degraded": 0.4398270858495466,
+  "overall_score": 0.5452318439163073
+}

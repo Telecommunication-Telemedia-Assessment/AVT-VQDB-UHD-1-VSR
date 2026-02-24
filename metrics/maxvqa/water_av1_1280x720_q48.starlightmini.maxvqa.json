@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 03:28:44",
+  "distorted": "water_av1_1280x720_q48.starlightmini.mkv",
+  "high quality vs low quality": 0.7052157477265767,
+  "good content vs bad content": 0.7201744612292887,
+  "organized composition vs chaotic composition": 0.441269841799234,
+  "vibrant color vs faded color": 0.7169098620947245,
+  "contrastive lighting vs gloomy lighting": 0.7079190317994805,
+  "consistent trajectory vs incoherent trajectory": 0.817823816785716,
+  "good aesthetics vs bad aesthetics": 0.7002579386600224,
+  "sharp vs fuzzy": 0.7890060267568938,
+  "in-focus vs out-of-focus": 0.6945768748289977,
+  "noiseless vs noisy": 0.7979384679740649,
+  "clear-motion vs blurry-motion": 0.3760075873117342,
+  "stable vs shaky": 0.9463074072711015,
+  "well-exposed vs poorly-exposed": 0.8275948017560802,
+  "original vs compressed": 0.7755802631321116,
+  "fluent vs choppy": 0.778026025308328,
+  "clear vs severely degraded": 0.6910967423270198,
+  "overall_score": 0.7178565560475858
+}

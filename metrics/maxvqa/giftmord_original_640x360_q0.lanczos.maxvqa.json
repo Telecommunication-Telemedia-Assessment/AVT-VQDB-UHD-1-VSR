@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 02:08:19",
+  "distorted": "giftmord_original_640x360_q0.lanczos.mkv",
+  "high quality vs low quality": 0.6199727266113605,
+  "good content vs bad content": 0.6076306967550054,
+  "organized composition vs chaotic composition": 0.28829083714907583,
+  "vibrant color vs faded color": 0.7187120949972408,
+  "contrastive lighting vs gloomy lighting": 0.6680121439804576,
+  "consistent trajectory vs incoherent trajectory": 0.7234801790427091,
+  "good aesthetics vs bad aesthetics": 0.6122105238996188,
+  "sharp vs fuzzy": 0.759257715661696,
+  "in-focus vs out-of-focus": 0.6696134622067496,
+  "noiseless vs noisy": 0.7733885950624034,
+  "clear-motion vs blurry-motion": 0.2818839182970017,
+  "stable vs shaky": 0.929331333543925,
+  "well-exposed vs poorly-exposed": 0.7988555997827619,
+  "original vs compressed": 0.7392334173929143,
+  "fluent vs choppy": 0.7239705222886512,
+  "clear vs severely degraded": 0.58866237303312,
+  "overall_score": 0.6564066337315432
+}

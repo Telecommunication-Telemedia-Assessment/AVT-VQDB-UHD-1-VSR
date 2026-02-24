@@ -1,0 +1,9 @@
+{
+  "name": "bigbuckbunny_original_640x360_q0.dove",
+  "distorted": "bigbuckbunny_original_640x360_q0.dove.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 4.467343330383301,
+  "ts": "2025-09-02 00:39:33.184919"
+}

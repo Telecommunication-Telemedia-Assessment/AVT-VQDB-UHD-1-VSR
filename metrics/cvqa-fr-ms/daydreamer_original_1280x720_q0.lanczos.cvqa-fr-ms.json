@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 03:33:13",
+  "distorted": "daydreamer_original_1280x720_q0.lanczos.mkv",
+  "reference": "daydreamer_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 4.616990866498642
+}

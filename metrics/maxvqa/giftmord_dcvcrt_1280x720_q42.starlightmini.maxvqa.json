@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 01:57:23",
+  "distorted": "giftmord_dcvcrt_1280x720_q42.starlightmini.mkv",
+  "high quality vs low quality": 0.8034754637482473,
+  "good content vs bad content": 0.7891365967019908,
+  "organized composition vs chaotic composition": 0.49501755817055065,
+  "vibrant color vs faded color": 0.8183425231736654,
+  "contrastive lighting vs gloomy lighting": 0.7540140440475387,
+  "consistent trajectory vs incoherent trajectory": 0.8299571435554053,
+  "good aesthetics vs bad aesthetics": 0.7995886041499034,
+  "sharp vs fuzzy": 0.87628595806113,
+  "in-focus vs out-of-focus": 0.8061203816471115,
+  "noiseless vs noisy": 0.8869689803771745,
+  "clear-motion vs blurry-motion": 0.4736605565587896,
+  "stable vs shaky": 0.9414139470090156,
+  "well-exposed vs poorly-exposed": 0.8697700698872706,
+  "original vs compressed": 0.8598479110095908,
+  "fluent vs choppy": 0.8001981003691541,
+  "clear vs severely degraded": 0.799291710976313,
+  "overall_score": 0.7876930968401782
+}

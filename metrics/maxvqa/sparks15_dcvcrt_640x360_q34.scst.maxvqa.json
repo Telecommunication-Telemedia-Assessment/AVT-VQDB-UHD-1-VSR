@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:59:02",
+  "distorted": "sparks15_dcvcrt_640x360_q34.scst.mkv",
+  "high quality vs low quality": 0.5807326298393216,
+  "good content vs bad content": 0.5035938470403111,
+  "organized composition vs chaotic composition": 0.24773342241639237,
+  "vibrant color vs faded color": 0.6381829340056512,
+  "contrastive lighting vs gloomy lighting": 0.6328407782480479,
+  "consistent trajectory vs incoherent trajectory": 0.6539377596136893,
+  "good aesthetics vs bad aesthetics": 0.537911566758411,
+  "sharp vs fuzzy": 0.763398745427549,
+  "in-focus vs out-of-focus": 0.6918296620720088,
+  "noiseless vs noisy": 0.7530595460739762,
+  "clear-motion vs blurry-motion": 0.27202700717502193,
+  "stable vs shaky": 0.9032083445425821,
+  "well-exposed vs poorly-exposed": 0.7227014429233594,
+  "original vs compressed": 0.73511019965652,
+  "fluent vs choppy": 0.6165125353776655,
+  "clear vs severely degraded": 0.5437849623624024,
+  "overall_score": 0.6122853364708069
+}

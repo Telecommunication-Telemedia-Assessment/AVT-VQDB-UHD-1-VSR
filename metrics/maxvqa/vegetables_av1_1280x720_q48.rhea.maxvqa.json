@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:26:27",
+  "distorted": "vegetables_av1_1280x720_q48.rhea.mkv",
+  "high quality vs low quality": 0.7991102114444129,
+  "good content vs bad content": 0.714426690716798,
+  "organized composition vs chaotic composition": 0.5868225266029262,
+  "vibrant color vs faded color": 0.8024550856971984,
+  "contrastive lighting vs gloomy lighting": 0.7460623290658321,
+  "consistent trajectory vs incoherent trajectory": 0.8660831723312853,
+  "good aesthetics vs bad aesthetics": 0.7718224323352844,
+  "sharp vs fuzzy": 0.8455504917009496,
+  "in-focus vs out-of-focus": 0.7667250119132843,
+  "noiseless vs noisy": 0.8498767900111326,
+  "clear-motion vs blurry-motion": 0.5382761592757203,
+  "stable vs shaky": 0.9591056898306676,
+  "well-exposed vs poorly-exposed": 0.8654104121763431,
+  "original vs compressed": 0.8060944611136314,
+  "fluent vs choppy": 0.805069655684396,
+  "clear vs severely degraded": 0.7985475906446374,
+  "overall_score": 0.7825899194090312
+}

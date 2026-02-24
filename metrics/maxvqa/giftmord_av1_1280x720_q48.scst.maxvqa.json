@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 02:01:57",
+  "distorted": "giftmord_av1_1280x720_q48.scst.mkv",
+  "high quality vs low quality": 0.7946309348416992,
+  "good content vs bad content": 0.7573491060797688,
+  "organized composition vs chaotic composition": 0.4437322538744048,
+  "vibrant color vs faded color": 0.8218107743448364,
+  "contrastive lighting vs gloomy lighting": 0.7643906864272322,
+  "consistent trajectory vs incoherent trajectory": 0.8092308513030125,
+  "good aesthetics vs bad aesthetics": 0.7740146270572407,
+  "sharp vs fuzzy": 0.875517155396326,
+  "in-focus vs out-of-focus": 0.8102304313144592,
+  "noiseless vs noisy": 0.8766849549584835,
+  "clear-motion vs blurry-motion": 0.473080300989593,
+  "stable vs shaky": 0.9337684199961341,
+  "well-exposed vs poorly-exposed": 0.8732281182384449,
+  "original vs compressed": 0.8530460114279957,
+  "fluent vs choppy": 0.8009576092890367,
+  "clear vs severely degraded": 0.7984433035496228,
+  "overall_score": 0.7787572211930183
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:01:27",
+  "distorted": "water_original_1280x720_q0.lanczos.mkv",
+  "high quality vs low quality": 0.6076716536591154,
+  "good content vs bad content": 0.5552621431262692,
+  "organized composition vs chaotic composition": 0.26279832803384257,
+  "vibrant color vs faded color": 0.624270968466582,
+  "contrastive lighting vs gloomy lighting": 0.6467165305657697,
+  "consistent trajectory vs incoherent trajectory": 0.7645892643067663,
+  "good aesthetics vs bad aesthetics": 0.5766684507443867,
+  "sharp vs fuzzy": 0.7029286418763314,
+  "in-focus vs out-of-focus": 0.623789331991303,
+  "noiseless vs noisy": 0.6785529314705604,
+  "clear-motion vs blurry-motion": 0.2704849251625019,
+  "stable vs shaky": 0.9350972529810726,
+  "well-exposed vs poorly-exposed": 0.7739974434094041,
+  "original vs compressed": 0.6533957634298345,
+  "fluent vs choppy": 0.734837927091493,
+  "clear vs severely degraded": 0.6019790603091225,
+  "overall_score": 0.6258150385390222
+}

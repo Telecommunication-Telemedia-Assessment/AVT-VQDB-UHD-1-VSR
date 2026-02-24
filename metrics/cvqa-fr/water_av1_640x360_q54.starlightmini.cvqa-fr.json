@@ -1,0 +1,9 @@
+{
+  "name": "water_av1_640x360_q54.starlightmini",
+  "distorted": "water_av1_640x360_q54.starlightmini.mkv",
+  "reference": "water_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 1.6456576585769653,
+  "ts": "2025-09-02 01:12:15.777259"
+}

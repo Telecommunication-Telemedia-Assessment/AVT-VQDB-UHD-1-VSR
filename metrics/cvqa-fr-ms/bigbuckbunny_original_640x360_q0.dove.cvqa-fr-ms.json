@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 04:12:41",
+  "distorted": "bigbuckbunny_original_640x360_q0.dove.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 4.419009204682593
+}

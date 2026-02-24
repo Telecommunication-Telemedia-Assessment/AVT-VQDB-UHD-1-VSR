@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:39:17",
+  "distorted": "giftmord_dcvcrt_640x360_q34.seedvr2.mkv",
+  "high quality vs low quality": 0.7898942772056627,
+  "good content vs bad content": 0.7707391988916912,
+  "organized composition vs chaotic composition": 0.5221374946675759,
+  "vibrant color vs faded color": 0.8096462896513211,
+  "contrastive lighting vs gloomy lighting": 0.7385472273219092,
+  "consistent trajectory vs incoherent trajectory": 0.8239523818208396,
+  "good aesthetics vs bad aesthetics": 0.782849892191219,
+  "sharp vs fuzzy": 0.8581984350578276,
+  "in-focus vs out-of-focus": 0.7836650550137213,
+  "noiseless vs noisy": 0.8769553105701877,
+  "clear-motion vs blurry-motion": 0.46830874033476705,
+  "stable vs shaky": 0.9373130802368004,
+  "well-exposed vs poorly-exposed": 0.8675798819003215,
+  "original vs compressed": 0.8377770350587248,
+  "fluent vs choppy": 0.8054454287996985,
+  "clear vs severely degraded": 0.7848931483115139,
+  "overall_score": 0.7786189298146113
+}

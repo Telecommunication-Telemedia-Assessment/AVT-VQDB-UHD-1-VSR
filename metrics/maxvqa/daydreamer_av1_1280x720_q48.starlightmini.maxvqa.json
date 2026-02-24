@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:36:23",
+  "distorted": "daydreamer_av1_1280x720_q48.starlightmini.mkv",
+  "high quality vs low quality": 0.6309049284853433,
+  "good content vs bad content": 0.540567929831689,
+  "organized composition vs chaotic composition": 0.33638244446845783,
+  "vibrant color vs faded color": 0.6586494068921527,
+  "contrastive lighting vs gloomy lighting": 0.62020778091649,
+  "consistent trajectory vs incoherent trajectory": 0.7587809456379583,
+  "good aesthetics vs bad aesthetics": 0.5983038945541032,
+  "sharp vs fuzzy": 0.7845631102872077,
+  "in-focus vs out-of-focus": 0.716993990590198,
+  "noiseless vs noisy": 0.8128123289198411,
+  "clear-motion vs blurry-motion": 0.36770566965442725,
+  "stable vs shaky": 0.9379014624479135,
+  "well-exposed vs poorly-exposed": 0.7425664804710265,
+  "original vs compressed": 0.7703399326791611,
+  "fluent vs choppy": 0.7251032871542604,
+  "clear vs severely degraded": 0.6236126651990604,
+  "overall_score": 0.6640872661368304
+}

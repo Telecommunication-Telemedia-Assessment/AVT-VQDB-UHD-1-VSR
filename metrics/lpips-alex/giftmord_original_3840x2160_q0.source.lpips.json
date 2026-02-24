@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-01-04 16:25:07",
+  "distorted": "giftmord_original_3840x2160_q0.source.mkv",
+  "reference": "giftmord_original_3840x2160_q0.source.mkv",
+  "lpips_version": "0.1",
+  "device": "cpu",
+  "net": "alex",
+  "fps": 2,
+  "lpips-alex": 0.0,
+  "lpips-alex_min": 0.0,
+  "lpips-alex_max": 0.0,
+  "num_frames": 16,
+  "frame_distances": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ]
+}

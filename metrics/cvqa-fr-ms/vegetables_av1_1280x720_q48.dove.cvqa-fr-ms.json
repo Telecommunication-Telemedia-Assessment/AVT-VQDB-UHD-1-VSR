@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 11:56:57",
+  "distorted": "vegetables_av1_1280x720_q48.dove.mkv",
+  "reference": "vegetables_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 3.796662526751387
+}

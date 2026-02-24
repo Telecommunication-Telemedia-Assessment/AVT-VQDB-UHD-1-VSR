@@ -1,0 +1,36 @@
+{
+  "name": "vegetables_dcvcrt_640x360_q34.scst",
+  "source": "vegetables",
+  "frames": 600,
+  "fps": 60,
+  "encoding": {
+    "name": "vegetables_dcvcrt_640x360_q34",
+    "codec": "DCVC-RT",
+    "encoder": "DCVC-RT",
+    "quality": 34,
+    "bitrate": 99740.8,
+    "filesize": 124676,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 31.232884407043457,
+    "spf": 0.052055,
+    "start_time": "2025-05-21 15:29:16",
+    "input": "vegetables_tuil.yuv",
+    "output": "vegetables_dcvcrt_640x360_q34.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/dcvcrt --model_path_i /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_image.pth.tar --model_path_p /home/behe5421/nvc/avt-ml-codec-evaluation/build/DCVC-RT/checkpoints/cvpr2025_video.pth.tar --qp_i 34 --qp_p 34 --rate_num 1 --test_config /tmp/1747834156171711869_vegetables_tuil.yuv.json --cuda 1 --worker 1 --write_stream 1 --stream_path /scratch/behe5421/dst/encoded_videos/dcvcrt/360p --output_path /tmp/test.json --save_decoded_frame 1 --calc_ssim 0 --verbose 1 --verbose_json 1 --check_existing 0 --cuda_idx 0"
+  },
+  "upscaling": {
+    "method": "scst",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 81362.79,
+    "spf": 135.60465,
+    "start_time": "2025-07-21 16:45:26",
+    "input": "",
+    "output": "",
+    "command": "python inference_SCST.py --ckpt_model_path checkpoints/stcm_unet.pth --decoder_tiled_size 224 --encoder_tiled_size 2048 --num_inference_steps 20 --latent_tiled_size 96 --video_path /scratch/behe5421/src/upscale/png/360/vegetables_dcvcrt_640x360_q34.decoded/ --added_noise_level 350 --init_noise_level 999 --output_dir /scratch/behe5421/dst/upscaled/SCST/vegetables_dcvcrt_640x360_q34.decoded.scst --upscale 6 --process_size 768 --overlap_frame 1 --unet_config_path models/configs/stcm.yaml --seed 42 --num_frame 8 --prompt There is a person cutting a tomato with a knife, there is also a slice of tomato on a plate. --negative_prompt blurry, dotted, noise, raster lines, unclear, lowres, over-smoothed --guidance_scale 5.0 --frame_rate 60 --pretrained_model_path checkpoints/stable-diffusion-2-1-base --controlnet_path checkpoints/controlnet --save_video"
+  }
+}

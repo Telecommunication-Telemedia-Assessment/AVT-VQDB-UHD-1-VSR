@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:09:07",
+  "distorted": "sparks15_dcvcrt_1280x720_q42.starlightmini.mkv",
+  "high quality vs low quality": 0.8236483572171316,
+  "good content vs bad content": 0.8100080334362058,
+  "organized composition vs chaotic composition": 0.5554582883040091,
+  "vibrant color vs faded color": 0.8123226998307022,
+  "contrastive lighting vs gloomy lighting": 0.7588899073154405,
+  "consistent trajectory vs incoherent trajectory": 0.8555932154299681,
+  "good aesthetics vs bad aesthetics": 0.8173711164654349,
+  "sharp vs fuzzy": 0.8793312881689171,
+  "in-focus vs out-of-focus": 0.8390934657844438,
+  "noiseless vs noisy": 0.8879938914702221,
+  "clear-motion vs blurry-motion": 0.5501617295838251,
+  "stable vs shaky": 0.9501339534886204,
+  "well-exposed vs poorly-exposed": 0.8635384948171695,
+  "original vs compressed": 0.858488277955559,
+  "fluent vs choppy": 0.8169986297598614,
+  "clear vs severely degraded": 0.8271762680406156,
+  "overall_score": 0.8066379760667579
+}

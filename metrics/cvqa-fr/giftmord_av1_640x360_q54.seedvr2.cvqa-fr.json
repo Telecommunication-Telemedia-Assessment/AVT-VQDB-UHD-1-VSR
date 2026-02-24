@@ -1,0 +1,9 @@
+{
+  "name": "giftmord_av1_640x360_q54.seedvr2",
+  "distorted": "giftmord_av1_640x360_q54.seedvr2.mkv",
+  "reference": "giftmord_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.230422019958496,
+  "ts": "2025-09-02 01:19:27.694501"
+}

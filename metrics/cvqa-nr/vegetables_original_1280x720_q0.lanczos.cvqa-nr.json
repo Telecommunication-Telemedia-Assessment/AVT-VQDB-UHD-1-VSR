@@ -1,0 +1,8 @@
+{
+  "name": "vegetables_original_1280x720_q0.lanczos",
+  "distorted": "vegetables_original_1280x720_q0.lanczos.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.6418304443359375,
+  "ts": "2025-09-01 23:26:27.333154"
+}

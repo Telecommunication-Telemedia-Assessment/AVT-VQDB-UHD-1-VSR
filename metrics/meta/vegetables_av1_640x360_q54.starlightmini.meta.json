@@ -1,0 +1,36 @@
+{
+  "name": "vegetables_av1_640x360_q54.starlightmini",
+  "source": "vegetables",
+  "frames": 600,
+  "fps": 60,
+  "encoding": {
+    "name": "vegetables_av1_640x360_q54",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 54,
+    "bitrate": 124750.4,
+    "filesize": 155938,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 74.68348383903503,
+    "spf": 0.124472,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "vegetables_tuil.yuv",
+    "output": "vegetables_av1_640x360_q54.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=640 --height=360 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=54 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/360p/vegetables_av1_640x360_q54.bin /scratch/behe5421/src/yuv/360p/vegetables_tuil.yuv"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 7706.0,
+    "spf": 12.843333333,
+    "start_time": "2025-08-18 19:06:52",
+    "input": "vegetables_av1_640x360_q54.decoded.prescaled_540p_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

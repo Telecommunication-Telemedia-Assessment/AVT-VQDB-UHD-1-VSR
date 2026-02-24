@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:24:08",
+  "distorted": "sparks15_av1_1280x720_q48.seedvr2.mkv",
+  "high quality vs low quality": 0.6492696770758477,
+  "good content vs bad content": 0.5587255043985722,
+  "organized composition vs chaotic composition": 0.2551832264465582,
+  "vibrant color vs faded color": 0.7006999094110641,
+  "contrastive lighting vs gloomy lighting": 0.6716348769052833,
+  "consistent trajectory vs incoherent trajectory": 0.6524091559637801,
+  "good aesthetics vs bad aesthetics": 0.6100725684624297,
+  "sharp vs fuzzy": 0.8345775140247388,
+  "in-focus vs out-of-focus": 0.7748431088059334,
+  "noiseless vs noisy": 0.8281629051632102,
+  "clear-motion vs blurry-motion": 0.3556146081401222,
+  "stable vs shaky": 0.9093853246748046,
+  "well-exposed vs poorly-exposed": 0.7437941231122942,
+  "original vs compressed": 0.8005535140765949,
+  "fluent vs choppy": 0.594833793981779,
+  "clear vs severely degraded": 0.6652238473186733,
+  "overall_score": 0.6628114786226055
+}

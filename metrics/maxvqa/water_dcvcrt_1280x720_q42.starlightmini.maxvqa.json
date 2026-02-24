@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 01:50:43",
+  "distorted": "water_dcvcrt_1280x720_q42.starlightmini.mkv",
+  "high quality vs low quality": 0.7973307356379407,
+  "good content vs bad content": 0.7919692763283323,
+  "organized composition vs chaotic composition": 0.5500214354650872,
+  "vibrant color vs faded color": 0.7992079599560753,
+  "contrastive lighting vs gloomy lighting": 0.756339512304146,
+  "consistent trajectory vs incoherent trajectory": 0.8490740835308189,
+  "good aesthetics vs bad aesthetics": 0.7895983840011722,
+  "sharp vs fuzzy": 0.857894822195826,
+  "in-focus vs out-of-focus": 0.7818680694410385,
+  "noiseless vs noisy": 0.8626694922823136,
+  "clear-motion vs blurry-motion": 0.4591196905075742,
+  "stable vs shaky": 0.9543889960709597,
+  "well-exposed vs poorly-exposed": 0.8661535964523406,
+  "original vs compressed": 0.8349531471612752,
+  "fluent vs choppy": 0.8208457566584652,
+  "clear vs severely degraded": 0.7903080370109514,
+  "overall_score": 0.78510893718777
+}

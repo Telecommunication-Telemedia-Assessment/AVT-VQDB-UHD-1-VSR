@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 04:46:56",
+  "distorted": "sparks15_dcvcrt_640x360_q34.starlightmini.mkv",
+  "reference": "sparks15_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 1.6949309125791931
+}

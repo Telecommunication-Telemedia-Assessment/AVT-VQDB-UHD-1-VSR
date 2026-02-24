@@ -1,0 +1,12 @@
+{
+  "compression": 3.1085744,
+  "content": 2.8926404,
+  "distortion": 3.183617,
+  "compression_content": 3.0779262,
+  "compression_distortion": 3.185262,
+  "content_distortion": 3.1739113,
+  "compression_content_distortion": 3.123386,
+  "uvq": 3.123386,
+  "filename": "water_av1_640x360_q54.lanczos.mkv",
+  "timestamp": "2025-09-06 15:15:35"
+}

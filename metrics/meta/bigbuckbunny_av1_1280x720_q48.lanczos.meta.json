@@ -1,0 +1,36 @@
+{
+  "name": "bigbuckbunny_av1_1280x720_q48.lanczos",
+  "source": "bigbuckbunny",
+  "frames": 600,
+  "fps": 60,
+  "encoding": {
+    "name": "bigbuckbunny_av1_1280x720_q48",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 48,
+    "bitrate": 874343.2,
+    "filesize": 1092929,
+    "width": 1280,
+    "height": 720,
+    "resolution": "720p",
+    "encoding_time": 395.5699656009674,
+    "spf": 0.659283,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "bigbuck_bunny_8bit.yuv",
+    "output": "bigbuckbunny_av1_1280x720_q48.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=1280 --height=720 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=48 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/720p/bigbuckbunny_av1_1280x720_q48.bin /scratch/behe5421/src/yuv/720p/bigbuck_bunny_8bit.yuv"
+  },
+  "upscaling": {
+    "method": "lanczos",
+    "upscale_factor": 3,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 0,
+    "spf": 0.0,
+    "start_time": "2025-08-04 12:38:18",
+    "input": "",
+    "output": "",
+    "command": "-vf scale=3840x2160:param0=5 -sws_flags lanczos+accurate_rnd+bitexact"
+  }
+}

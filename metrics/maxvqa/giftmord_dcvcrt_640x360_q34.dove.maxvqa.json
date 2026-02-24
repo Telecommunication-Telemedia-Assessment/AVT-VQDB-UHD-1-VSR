@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:19:56",
+  "distorted": "giftmord_dcvcrt_640x360_q34.dove.mkv",
+  "high quality vs low quality": 0.7891738478171817,
+  "good content vs bad content": 0.769060103035863,
+  "organized composition vs chaotic composition": 0.4573613987400536,
+  "vibrant color vs faded color": 0.8046949378476479,
+  "contrastive lighting vs gloomy lighting": 0.7451428532966471,
+  "consistent trajectory vs incoherent trajectory": 0.8152407080474708,
+  "good aesthetics vs bad aesthetics": 0.7734402560858769,
+  "sharp vs fuzzy": 0.8725512614353429,
+  "in-focus vs out-of-focus": 0.8092550806764887,
+  "noiseless vs noisy": 0.88745501819135,
+  "clear-motion vs blurry-motion": 0.4739160974791565,
+  "stable vs shaky": 0.9371293876114961,
+  "well-exposed vs poorly-exposed": 0.869889250116839,
+  "original vs compressed": 0.846446066475607,
+  "fluent vs choppy": 0.7918012236182141,
+  "clear vs severely degraded": 0.788985614232787,
+  "overall_score": 0.7769714440442516
+}

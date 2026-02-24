@@ -1,0 +1,9 @@
+{
+  "name": "bigbuckbunny_dcvcrt_640x360_q34.rhea",
+  "distorted": "bigbuckbunny_dcvcrt_640x360_q34.rhea.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.308316469192505,
+  "ts": "2025-09-02 01:01:55.869133"
+}

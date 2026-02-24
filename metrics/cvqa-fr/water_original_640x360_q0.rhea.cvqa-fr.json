@@ -1,0 +1,9 @@
+{
+  "name": "water_original_640x360_q0.rhea",
+  "distorted": "water_original_640x360_q0.rhea.mkv",
+  "reference": "water_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 3.216000556945801,
+  "ts": "2025-09-02 00:59:06.776767"
+}

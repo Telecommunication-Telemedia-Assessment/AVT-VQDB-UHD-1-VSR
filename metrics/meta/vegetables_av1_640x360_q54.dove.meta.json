@@ -1,0 +1,36 @@
+{
+  "name": "vegetables_av1_640x360_q54.dove",
+  "source": "vegetables",
+  "frames": 600,
+  "fps": 60,
+  "encoding": {
+    "name": "vegetables_av1_640x360_q54",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 54,
+    "bitrate": 124750.4,
+    "filesize": 155938,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 74.68348383903503,
+    "spf": 0.124472,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "vegetables_tuil.yuv",
+    "output": "vegetables_av1_640x360_q54.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=640 --height=360 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=54 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/360p/vegetables_av1_640x360_q54.bin /scratch/behe5421/src/yuv/360p/vegetables_tuil.yuv"
+  },
+  "upscaling": {
+    "method": "dove",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 16115.259646892548,
+    "spf": 26.858766078,
+    "start_time": "2025-07-06 12:09:43",
+    "input": "vegetables_av1_640x360_q54.decoded.mkv",
+    "output": "vegetables_av1_640x360_q54.decoded.DOVE_6x_T128_64_S3_256_B64",
+    "command": "python dove_inference.py --input_path /home/behe5421/flatdec/dec/vegetables_av1_640x360_q54.decoded.mkv --model_path /home/behe5421/nvc/avt-ml-codec-evaluation/build/DOVE/pretrained_models/DOVE --output_path /scratch/behe5421/dst/upscaled/DOVE --fps 60 --dtype bfloat16 --seed 42 --upscale_mode bilinear --upscale 6 --noise_step 0 --sr_noise_step 399 --is_cpu_offload False --is_vae_st True --tile_size_hw [0, 0] --tile_split_hw [3, 3] --overlap_hw [256, 256] --tile_blend 64 --chunk_len 128 --overlap_t 64"
+  }
+}

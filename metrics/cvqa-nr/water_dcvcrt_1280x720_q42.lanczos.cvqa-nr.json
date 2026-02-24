@@ -1,0 +1,8 @@
+{
+  "name": "water_dcvcrt_1280x720_q42.lanczos",
+  "distorted": "water_dcvcrt_1280x720_q42.lanczos.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.550390243530273,
+  "ts": "2025-09-01 23:28:39.638659"
+}

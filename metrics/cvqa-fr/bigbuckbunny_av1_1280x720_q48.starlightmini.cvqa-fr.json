@@ -1,0 +1,9 @@
+{
+  "name": "bigbuckbunny_av1_1280x720_q48.starlightmini",
+  "distorted": "bigbuckbunny_av1_1280x720_q48.starlightmini.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 4.195420265197754,
+  "ts": "2025-09-02 01:04:32.690065"
+}

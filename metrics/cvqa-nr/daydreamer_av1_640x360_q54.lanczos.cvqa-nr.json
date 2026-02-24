@@ -1,0 +1,8 @@
+{
+  "name": "daydreamer_av1_640x360_q54.lanczos",
+  "distorted": "daydreamer_av1_640x360_q54.lanczos.mkv",
+  "model": "UGCVQA_NR",
+  "multiscale": false,
+  "score": 4.1702117919921875,
+  "ts": "2025-09-01 23:17:17.890129"
+}

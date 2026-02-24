@@ -1,0 +1,36 @@
+{
+  "name": "water_av1_640x360_q54.starlightmini",
+  "source": "water",
+  "frames": 599,
+  "fps": 60,
+  "encoding": {
+    "name": "water_av1_640x360_q54",
+    "codec": "AV1",
+    "encoder": "AOM",
+    "quality": 54,
+    "bitrate": 587084.8747913189,
+    "filesize": 732633,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 381.0789752006531,
+    "spf": 0.636192,
+    "start_time": "2025-05-21 14:27:43",
+    "input": "water_netflix.yuv",
+    "output": "water_av1_640x360_q54.bin",
+    "command": "/home/behe5421/nvc/avt-ml-codec-evaluation/bin/aomenc --width=640 --height=360 --fps=60/1 --i420 --input-bit-depth=8 --cpu-used=4 --passes=1 --kf-min-dist=96 --kf-max-dist=96 --end-usage=q --cq-level=54 --threads=4 -o /scratch/behe5421/dst/encoded_videos/aom/360p/water_av1_640x360_q54.bin /scratch/behe5421/src/yuv/360p/water_netflix.yuv"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 7726.0,
+    "spf": 12.898163606,
+    "start_time": "2025-08-19 12:25:42",
+    "input": "water_av1_640x360_q54.decoded.prescaled_540p_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

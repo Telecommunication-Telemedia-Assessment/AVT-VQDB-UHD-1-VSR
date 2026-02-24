@@ -1,0 +1,9 @@
+{
+  "name": "sparks15_av1_640x360_q54.rhea",
+  "distorted": "sparks15_av1_640x360_q54.rhea.mkv",
+  "reference": "sparks15_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 1.7299904823303223,
+  "ts": "2025-09-02 00:58:17.087212"
+}

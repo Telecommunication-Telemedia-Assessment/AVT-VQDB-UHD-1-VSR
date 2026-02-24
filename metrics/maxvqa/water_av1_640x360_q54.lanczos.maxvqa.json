@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:25:47",
+  "distorted": "water_av1_640x360_q54.lanczos.mkv",
+  "high quality vs low quality": 0.3435271859493499,
+  "good content vs bad content": 0.33138493367702426,
+  "organized composition vs chaotic composition": 0.19868499491545907,
+  "vibrant color vs faded color": 0.4024384600801294,
+  "contrastive lighting vs gloomy lighting": 0.4773516693764869,
+  "consistent trajectory vs incoherent trajectory": 0.6299289188461671,
+  "good aesthetics vs bad aesthetics": 0.3822173621774803,
+  "sharp vs fuzzy": 0.49603505334798725,
+  "in-focus vs out-of-focus": 0.43138283183817683,
+  "noiseless vs noisy": 0.47222568316490343,
+  "clear-motion vs blurry-motion": 0.1557361803848751,
+  "stable vs shaky": 0.9119736296275792,
+  "well-exposed vs poorly-exposed": 0.6387596061341566,
+  "original vs compressed": 0.41495937857903165,
+  "fluent vs choppy": 0.4256520600984029,
+  "clear vs severely degraded": 0.32725414763839,
+  "overall_score": 0.439969505989725
+}

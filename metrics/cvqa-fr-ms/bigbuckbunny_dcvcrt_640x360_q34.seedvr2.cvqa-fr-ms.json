@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-12 04:55:24",
+  "distorted": "bigbuckbunny_dcvcrt_640x360_q34.seedvr2.mkv",
+  "reference": "bigbuckbunny_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": true,
+  "score": 3.571407921882079
+}

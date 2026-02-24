@@ -1,0 +1,9 @@
+{
+  "name": "sparks15_av1_1280x720_q48.dove",
+  "distorted": "sparks15_av1_1280x720_q48.dove.mkv",
+  "reference": "sparks15_original_3840x2160_q0.mkv",
+  "model": "UGCVQA_FR",
+  "multiscale": false,
+  "score": 2.86059308052063,
+  "ts": "2025-09-02 00:33:22.427611"
+}

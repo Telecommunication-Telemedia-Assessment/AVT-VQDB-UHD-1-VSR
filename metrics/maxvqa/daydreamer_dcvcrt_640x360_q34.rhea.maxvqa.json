@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 04:40:24",
+  "distorted": "daydreamer_dcvcrt_640x360_q34.rhea.mkv",
+  "high quality vs low quality": 0.620242714220892,
+  "good content vs bad content": 0.5499648519751855,
+  "organized composition vs chaotic composition": 0.2941545758091112,
+  "vibrant color vs faded color": 0.6468658423260729,
+  "contrastive lighting vs gloomy lighting": 0.6395224377927553,
+  "consistent trajectory vs incoherent trajectory": 0.7449399597329194,
+  "good aesthetics vs bad aesthetics": 0.5817170931616845,
+  "sharp vs fuzzy": 0.7769913640377011,
+  "in-focus vs out-of-focus": 0.7171933026451602,
+  "noiseless vs noisy": 0.7875106544046974,
+  "clear-motion vs blurry-motion": 0.35974763074488886,
+  "stable vs shaky": 0.9363013804949236,
+  "well-exposed vs poorly-exposed": 0.7730557070480305,
+  "original vs compressed": 0.7501398734069432,
+  "fluent vs choppy": 0.6714372359130995,
+  "clear vs severely degraded": 0.6096491132773076,
+  "overall_score": 0.653714608561961
+}

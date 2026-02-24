@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 03:03:53",
+  "distorted": "water_dcvcrt_1280x720_q42.scst.mkv",
+  "high quality vs low quality": 0.7115865214991799,
+  "good content vs bad content": 0.6909054653934467,
+  "organized composition vs chaotic composition": 0.4027035422900361,
+  "vibrant color vs faded color": 0.696874634362343,
+  "contrastive lighting vs gloomy lighting": 0.6927344331001248,
+  "consistent trajectory vs incoherent trajectory": 0.8209225434352232,
+  "good aesthetics vs bad aesthetics": 0.678808695568733,
+  "sharp vs fuzzy": 0.8150979991970417,
+  "in-focus vs out-of-focus": 0.7585867527920938,
+  "noiseless vs noisy": 0.8162087727330278,
+  "clear-motion vs blurry-motion": 0.3858863553372591,
+  "stable vs shaky": 0.9473944017496782,
+  "well-exposed vs poorly-exposed": 0.8049905101584619,
+  "original vs compressed": 0.7914759761791206,
+  "fluent vs choppy": 0.7785788565966575,
+  "clear vs severely degraded": 0.6960943576754262,
+  "overall_score": 0.7180531136292408
+}

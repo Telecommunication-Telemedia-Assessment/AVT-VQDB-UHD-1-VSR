@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 06:51:53",
+  "distorted": "water_original_1280x720_q0.scst.mkv",
+  "high quality vs low quality": 0.724727838931559,
+  "good content vs bad content": 0.7132643559118242,
+  "organized composition vs chaotic composition": 0.397290125753818,
+  "vibrant color vs faded color": 0.7514493679462868,
+  "contrastive lighting vs gloomy lighting": 0.7228281992975021,
+  "consistent trajectory vs incoherent trajectory": 0.8337265618625848,
+  "good aesthetics vs bad aesthetics": 0.7109899554329676,
+  "sharp vs fuzzy": 0.8162403512793388,
+  "in-focus vs out-of-focus": 0.7647519638250271,
+  "noiseless vs noisy": 0.82072729825397,
+  "clear-motion vs blurry-motion": 0.4037500078643168,
+  "stable vs shaky": 0.9485210459404118,
+  "well-exposed vs poorly-exposed": 0.8248733204906817,
+  "original vs compressed": 0.7789352596433682,
+  "fluent vs choppy": 0.7888866306551371,
+  "clear vs severely degraded": 0.7375321367975418,
+  "overall_score": 0.7336559012428959
+}

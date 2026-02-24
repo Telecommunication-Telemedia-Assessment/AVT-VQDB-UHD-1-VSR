@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 08:12:48",
+  "distorted": "vegetables_dcvcrt_640x360_q34.rhea.mkv",
+  "high quality vs low quality": 0.7651255612952378,
+  "good content vs bad content": 0.722505416080488,
+  "organized composition vs chaotic composition": 0.5391800289887719,
+  "vibrant color vs faded color": 0.7752368465678936,
+  "contrastive lighting vs gloomy lighting": 0.733025949539137,
+  "consistent trajectory vs incoherent trajectory": 0.8538736431058257,
+  "good aesthetics vs bad aesthetics": 0.74814570813363,
+  "sharp vs fuzzy": 0.810928629385036,
+  "in-focus vs out-of-focus": 0.7219903114222652,
+  "noiseless vs noisy": 0.8428832515194671,
+  "clear-motion vs blurry-motion": 0.4222680775108474,
+  "stable vs shaky": 0.954762881853587,
+  "well-exposed vs poorly-exposed": 0.8421118069527693,
+  "original vs compressed": 0.7845099539514618,
+  "fluent vs choppy": 0.8044543718629422,
+  "clear vs severely degraded": 0.7574627521474693,
+  "overall_score": 0.7549040743948019
+}

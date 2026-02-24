@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 05:54:11",
+  "distorted": "bigbuckbunny_av1_1280x720_q48.seedvr2.mkv",
+  "high quality vs low quality": 0.8537782649623251,
+  "good content vs bad content": 0.839129737914972,
+  "organized composition vs chaotic composition": 0.6590931137942188,
+  "vibrant color vs faded color": 0.8380075183628494,
+  "contrastive lighting vs gloomy lighting": 0.7753802985014752,
+  "consistent trajectory vs incoherent trajectory": 0.8864033523963076,
+  "good aesthetics vs bad aesthetics": 0.8514691715999912,
+  "sharp vs fuzzy": 0.8851608507338565,
+  "in-focus vs out-of-focus": 0.8317149954409496,
+  "noiseless vs noisy": 0.8949507471924603,
+  "clear-motion vs blurry-motion": 0.6379795464297116,
+  "stable vs shaky": 0.9606321309670989,
+  "well-exposed vs poorly-exposed": 0.8844038056431355,
+  "original vs compressed": 0.868617062699257,
+  "fluent vs choppy": 0.8071754972370583,
+  "clear vs severely degraded": 0.8560892538952544,
+  "overall_score": 0.8331240842356825
+}

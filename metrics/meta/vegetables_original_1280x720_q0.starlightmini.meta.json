@@ -1,0 +1,36 @@
+{
+  "name": "vegetables_original_1280x720_q0.starlightmini",
+  "source": "vegetables",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "vegetables_original_1280x720_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 142646352,
+    "filesize": 178307941,
+    "width": 1280,
+    "height": 720,
+    "resolution": "720p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:53",
+    "input": "",
+    "output": "vegetables_original_1280x720_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 3,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 7856.0,
+    "spf": 0,
+    "start_time": "2025-08-16 23:09:52",
+    "input": "vegetables_original_1280x720_q0.decoded_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

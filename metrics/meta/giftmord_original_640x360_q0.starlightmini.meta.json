@@ -1,0 +1,36 @@
+{
+  "name": "giftmord_original_640x360_q0.starlightmini",
+  "source": "giftmord",
+  "frames": 0,
+  "fps": 60.0,
+  "encoding": {
+    "name": "giftmord_original_640x360_q0.decoded",
+    "codec": "original",
+    "encoder": "original",
+    "quality": 0,
+    "bitrate": 59064118,
+    "filesize": 59064118,
+    "width": 640,
+    "height": 360,
+    "resolution": "360p",
+    "encoding_time": 0,
+    "spf": 0,
+    "start_time": "2025-07-25 13:23:40",
+    "input": "",
+    "output": "giftmord_original_640x360_q0.decoded.mkv",
+    "command": "-c:v libx265 -x265-params lossless=1"
+  },
+  "upscaling": {
+    "method": "starlightmini",
+    "upscale_factor": 6,
+    "width": 3840,
+    "height": 2160,
+    "resolution": "2160p",
+    "processing_time": 5900.0,
+    "spf": 0,
+    "start_time": "2025-08-15 10:07:12",
+    "input": "giftmord_original_640x360_q0.decoded.prescaled_540p_starlight_mini.mkv",
+    "output": "",
+    "command": "Topaz Video AI 7.0.1"
+  }
+}

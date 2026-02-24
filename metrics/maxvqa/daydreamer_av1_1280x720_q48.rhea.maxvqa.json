@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 01:55:43",
+  "distorted": "daydreamer_av1_1280x720_q48.rhea.mkv",
+  "high quality vs low quality": 0.6283159357721266,
+  "good content vs bad content": 0.5590710653954651,
+  "organized composition vs chaotic composition": 0.28647621248774274,
+  "vibrant color vs faded color": 0.6714099240656568,
+  "contrastive lighting vs gloomy lighting": 0.6375558566602153,
+  "consistent trajectory vs incoherent trajectory": 0.7285772682228415,
+  "good aesthetics vs bad aesthetics": 0.5878093392159801,
+  "sharp vs fuzzy": 0.801114225555455,
+  "in-focus vs out-of-focus": 0.7245296676251569,
+  "noiseless vs noisy": 0.8072271593193111,
+  "clear-motion vs blurry-motion": 0.3423875834906291,
+  "stable vs shaky": 0.9343957419493362,
+  "well-exposed vs poorly-exposed": 0.7677926643900016,
+  "original vs compressed": 0.7830502470144836,
+  "fluent vs choppy": 0.7146323341977924,
+  "clear vs severely degraded": 0.6074811971403938,
+  "overall_score": 0.6613641514064117
+}

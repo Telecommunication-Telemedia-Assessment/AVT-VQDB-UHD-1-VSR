@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 07:54:59",
+  "distorted": "sparks15_original_1280x720_q0.lanczos.mkv",
+  "high quality vs low quality": 0.6299985154558683,
+  "good content vs bad content": 0.5159616698044032,
+  "organized composition vs chaotic composition": 0.24340842216615943,
+  "vibrant color vs faded color": 0.712661332566635,
+  "contrastive lighting vs gloomy lighting": 0.6784858835668253,
+  "consistent trajectory vs incoherent trajectory": 0.6183808079411596,
+  "good aesthetics vs bad aesthetics": 0.5781869443264963,
+  "sharp vs fuzzy": 0.8343727189833312,
+  "in-focus vs out-of-focus": 0.7587008193640787,
+  "noiseless vs noisy": 0.8094436519480656,
+  "clear-motion vs blurry-motion": 0.36490753342382787,
+  "stable vs shaky": 0.9026643135101731,
+  "well-exposed vs poorly-exposed": 0.7542112093757498,
+  "original vs compressed": 0.7962843005457727,
+  "fluent vs choppy": 0.48543166495791445,
+  "clear vs severely degraded": 0.6603063630653704,
+  "overall_score": 0.6464628844376143
+}

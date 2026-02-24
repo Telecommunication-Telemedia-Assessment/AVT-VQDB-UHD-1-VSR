@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-09-10 02:10:32",
+  "distorted": "water_av1_1280x720_q48.rhea.mkv",
+  "high quality vs low quality": 0.77027811083849,
+  "good content vs bad content": 0.7763687304187683,
+  "organized composition vs chaotic composition": 0.5416276438355561,
+  "vibrant color vs faded color": 0.7786551119128345,
+  "contrastive lighting vs gloomy lighting": 0.7351078003424631,
+  "consistent trajectory vs incoherent trajectory": 0.8422033046200984,
+  "good aesthetics vs bad aesthetics": 0.7711456976097422,
+  "sharp vs fuzzy": 0.8530274936712685,
+  "in-focus vs out-of-focus": 0.7919071248568061,
+  "noiseless vs noisy": 0.8623188674439348,
+  "clear-motion vs blurry-motion": 0.4968560720866433,
+  "stable vs shaky": 0.9500500150519106,
+  "well-exposed vs poorly-exposed": 0.8549509663264708,
+  "original vs compressed": 0.827092413898044,
+  "fluent vs choppy": 0.8057517427067715,
+  "clear vs severely degraded": 0.7769725100449973,
+  "overall_score": 0.7771446003540499
+}
