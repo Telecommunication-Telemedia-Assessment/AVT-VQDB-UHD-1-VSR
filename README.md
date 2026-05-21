@@ -13,7 +13,7 @@ The subjective and metric results are organized in the following way:
 - The file `subjective.csv` holds the subjective scores collected from the user study.
 - An aggregated version of all results is available in `dataset.json` for easier access and analysis.
 
-The corresponding video files are provided as lossless transcodes (Original Sources: ~13GB / Source Encodings ~4GB /  PVS: ~300GB) and can be downloaded using the link [AVT-VQDB-UHD-1-VSR](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-1-vsr/) or by using the included script:
+The corresponding video files are provided as lossless transcodes (Reference: ~13GB / Degraded: ~4GB /  Upscaled: ~300GB) and can be downloaded using the link [AVT-VQDB-UHD-1-VSR](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-uhd-1-vsr/) or by using the included script:
 ```bash
 chmod +x ./download.sh
 ./download.sh
